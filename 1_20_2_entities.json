@@ -8,7 +8,6 @@
     "height": 0.6,
     "width": 0.35,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/allay",
     "metadata": [
       {
         "mojangName": "data_dancing",
@@ -111,7 +110,6 @@
     "height": 0.5,
     "width": 6.0,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/area_effect_cloud",
     "metadata": [
       {
         "mojangName": "data_radius",
@@ -184,7 +182,6 @@
     "height": 1.975,
     "width": 0.5,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/armor_stand",
     "metadata": [
       {
         "mojangName": "data_client_flags",
@@ -307,7 +304,6 @@
     "height": 0.5,
     "width": 0.5,
     "clientTrackingRange": 4,
-    "lootTableLocation": "minecraft:entities/arrow",
     "metadata": [
       {
         "mojangName": "id_effect_color",
@@ -375,7 +371,6 @@
     "height": 0.42,
     "width": 0.75,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/axolotl",
     "metadata": [
       {
         "mojangName": "data_variant",
@@ -488,7 +483,6 @@
     "height": 0.9,
     "width": 0.5,
     "clientTrackingRange": 5,
-    "lootTableLocation": "minecraft:entities/bat",
     "metadata": [
       {
         "mojangName": "data_id_flags",
@@ -586,7 +580,6 @@
     "height": 0.6,
     "width": 0.7,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/bee",
     "metadata": [
       {
         "mojangName": "data_flags_id",
@@ -694,7 +687,6 @@
     "height": 1.8,
     "width": 0.6,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/blaze",
     "metadata": [
       {
         "mojangName": "data_flags_id",
@@ -792,7 +784,6 @@
     "height": 0.0,
     "width": 0.0,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/block_display",
     "metadata": [
       {
         "mojangName": "data_block_state_id",
@@ -925,7 +916,6 @@
     "height": 0.5625,
     "width": 1.375,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/boat",
     "metadata": [
       {
         "mojangName": "data_id_hurt",
@@ -1013,7 +1003,6 @@
     "height": 2.375,
     "width": 1.7,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/camel",
     "metadata": [
       {
         "mojangName": "dash",
@@ -1126,7 +1115,6 @@
     "height": 0.7,
     "width": 0.6,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/cat",
     "metadata": [
       {
         "mojangName": "data_variant_id",
@@ -1254,7 +1242,6 @@
     "height": 0.5,
     "width": 0.7,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/cave_spider",
     "metadata": [
       {
         "mojangName": "data_flags_id",
@@ -1352,7 +1339,6 @@
     "height": 0.5625,
     "width": 1.375,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/chest_boat",
     "metadata": [
       {
         "mojangName": "data_id_hurt",
@@ -1440,7 +1426,6 @@
     "height": 0.7,
     "width": 0.98,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/chest_minecart",
     "metadata": [
       {
         "mojangName": "data_id_hurt",
@@ -1523,7 +1508,6 @@
     "height": 0.7,
     "width": 0.4,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/chicken",
     "metadata": [
       {
         "mojangName": "data_baby_id",
@@ -1621,7 +1605,6 @@
     "height": 0.3,
     "width": 0.5,
     "clientTrackingRange": 4,
-    "lootTableLocation": "minecraft:entities/cod",
     "metadata": [
       {
         "mojangName": "from_bucket",
@@ -1719,7 +1702,6 @@
     "height": 0.7,
     "width": 0.98,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/command_block_minecart",
     "metadata": [
       {
         "mojangName": "data_id_command_name",
@@ -1812,7 +1794,6 @@
     "height": 1.4,
     "width": 0.9,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/cow",
     "metadata": [
       {
         "mojangName": "data_baby_id",
@@ -1910,7 +1891,6 @@
     "height": 1.7,
     "width": 0.6,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/creeper",
     "metadata": [
       {
         "mojangName": "data_swell_dir",
@@ -2018,7 +1998,6 @@
     "height": 0.6,
     "width": 0.9,
     "clientTrackingRange": 5,
-    "lootTableLocation": "minecraft:entities/dolphin",
     "metadata": [
       {
         "mojangName": "treasure_pos",
@@ -2126,7 +2105,6 @@
     "height": 1.5,
     "width": 1.3964844,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/donkey",
     "metadata": [
       {
         "mojangName": "data_id_chest",
@@ -2234,7 +2212,6 @@
     "height": 1.0,
     "width": 1.0,
     "clientTrackingRange": 4,
-    "lootTableLocation": "minecraft:entities/dragon_fireball",
     "metadata": [
       {
         "mojangName": "data_shared_flags_id",
@@ -2287,7 +2264,6 @@
     "height": 1.95,
     "width": 0.6,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/drowned",
     "metadata": [
       {
         "mojangName": "data_baby_id",
@@ -2395,7 +2371,6 @@
     "height": 0.25,
     "width": 0.25,
     "clientTrackingRange": 4,
-    "lootTableLocation": "minecraft:entities/egg",
     "metadata": [
       {
         "mojangName": "data_item_stack",
@@ -2453,7 +2428,6 @@
     "height": 1.9975,
     "width": 1.9975,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/elder_guardian",
     "metadata": [
       {
         "mojangName": "data_id_moving",
@@ -2556,7 +2530,6 @@
     "height": 2.0,
     "width": 2.0,
     "clientTrackingRange": 16,
-    "lootTableLocation": "minecraft:entities/end_crystal",
     "metadata": [
       {
         "mojangName": "data_beam_target",
@@ -2619,7 +2592,6 @@
     "height": 8.0,
     "width": 16.0,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/ender_dragon",
     "metadata": [
       {
         "mojangName": "data_phase",
@@ -2717,7 +2689,6 @@
     "height": 0.25,
     "width": 0.25,
     "clientTrackingRange": 4,
-    "lootTableLocation": "minecraft:entities/ender_pearl",
     "metadata": [
       {
         "mojangName": "data_item_stack",
@@ -2775,7 +2746,6 @@
     "height": 2.9,
     "width": 0.6,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/enderman",
     "metadata": [
       {
         "mojangName": "data_carry_state",
@@ -2883,7 +2853,6 @@
     "height": 0.3,
     "width": 0.4,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/endermite",
     "metadata": [
       {
         "mojangName": "data_mob_flags_id",
@@ -2976,7 +2945,6 @@
     "height": 1.95,
     "width": 0.6,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/evoker",
     "metadata": [
       {
         "mojangName": "data_spell_casting_id",
@@ -3079,7 +3047,6 @@
     "height": 0.8,
     "width": 0.5,
     "clientTrackingRange": 6,
-    "lootTableLocation": "minecraft:entities/evoker_fangs",
     "metadata": [
       {
         "mojangName": "data_shared_flags_id",
@@ -3132,7 +3099,6 @@
     "height": 0.25,
     "width": 0.25,
     "clientTrackingRange": 4,
-    "lootTableLocation": "minecraft:entities/experience_bottle",
     "metadata": [
       {
         "mojangName": "data_item_stack",
@@ -3190,7 +3156,6 @@
     "height": 0.5,
     "width": 0.5,
     "clientTrackingRange": 6,
-    "lootTableLocation": "minecraft:entities/experience_orb",
     "metadata": [
       {
         "mojangName": "data_shared_flags_id",
@@ -3243,7 +3208,6 @@
     "height": 0.25,
     "width": 0.25,
     "clientTrackingRange": 4,
-    "lootTableLocation": "minecraft:entities/eye_of_ender",
     "metadata": [
       {
         "mojangName": "data_item_stack",
@@ -3301,7 +3265,6 @@
     "height": 0.98,
     "width": 0.98,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/falling_block",
     "metadata": [
       {
         "mojangName": "data_start_pos",
@@ -3359,7 +3322,6 @@
     "height": 1.0,
     "width": 1.0,
     "clientTrackingRange": 4,
-    "lootTableLocation": "minecraft:entities/fireball",
     "metadata": [
       {
         "mojangName": "data_item_stack",
@@ -3417,7 +3379,6 @@
     "height": 0.25,
     "width": 0.25,
     "clientTrackingRange": 4,
-    "lootTableLocation": "minecraft:entities/firework_rocket",
     "metadata": [
       {
         "mojangName": "data_id_fireworks_item",
@@ -3485,7 +3446,6 @@
     "height": 0.25,
     "width": 0.25,
     "clientTrackingRange": 4,
-    "lootTableLocation": "minecraft:entities/fishing_bobber",
     "metadata": [
       {
         "mojangName": "data_hooked_entity",
@@ -3548,7 +3508,6 @@
     "height": 0.7,
     "width": 0.6,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/fox",
     "metadata": [
       {
         "mojangName": "data_type_id",
@@ -3666,7 +3625,6 @@
     "height": 0.5,
     "width": 0.5,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/frog",
     "metadata": [
       {
         "mojangName": "data_variant_id",
@@ -3774,7 +3732,6 @@
     "height": 0.7,
     "width": 0.98,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/furnace_minecart",
     "metadata": [
       {
         "mojangName": "data_id_fuel",
@@ -3862,7 +3819,6 @@
     "height": 4.0,
     "width": 4.0,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/ghast",
     "metadata": [
       {
         "mojangName": "data_is_charging",
@@ -3960,7 +3916,6 @@
     "height": 12.0,
     "width": 3.6,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/giant",
     "metadata": [
       {
         "mojangName": "data_mob_flags_id",
@@ -4053,7 +4008,6 @@
     "height": 0.5,
     "width": 0.5,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/glow_item_frame",
     "metadata": [
       {
         "mojangName": "data_item",
@@ -4116,7 +4070,6 @@
     "height": 0.8,
     "width": 0.8,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/glow_squid",
     "metadata": [
       {
         "mojangName": "data_dark_ticks_remaining",
@@ -4214,7 +4167,6 @@
     "height": 1.3,
     "width": 0.9,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/goat",
     "metadata": [
       {
         "mojangName": "data_is_screaming_goat",
@@ -4327,7 +4279,6 @@
     "height": 0.85,
     "width": 0.85,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/guardian",
     "metadata": [
       {
         "mojangName": "data_id_moving",
@@ -4430,7 +4381,6 @@
     "height": 1.4,
     "width": 1.3964844,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/hoglin",
     "metadata": [
       {
         "mojangName": "data_immune_to_zombification",
@@ -4533,7 +4483,6 @@
     "height": 0.7,
     "width": 0.98,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/hopper_minecart",
     "metadata": [
       {
         "mojangName": "data_id_hurt",
@@ -4616,7 +4565,6 @@
     "height": 1.6,
     "width": 1.3964844,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/horse",
     "metadata": [
       {
         "mojangName": "data_id_type_variant",
@@ -4724,7 +4672,6 @@
     "height": 1.95,
     "width": 0.6,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/husk",
     "metadata": [
       {
         "mojangName": "data_baby_id",
@@ -4832,7 +4779,6 @@
     "height": 1.95,
     "width": 0.6,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/illusioner",
     "metadata": [
       {
         "mojangName": "data_spell_casting_id",
@@ -4935,7 +4881,6 @@
     "height": 0.0,
     "width": 0.0,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/interaction",
     "metadata": [
       {
         "mojangName": "data_width_id",
@@ -5003,7 +4948,6 @@
     "height": 2.7,
     "width": 1.4,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/iron_golem",
     "metadata": [
       {
         "mojangName": "data_flags_id",
@@ -5101,7 +5045,6 @@
     "height": 0.25,
     "width": 0.25,
     "clientTrackingRange": 6,
-    "lootTableLocation": "minecraft:entities/item",
     "metadata": [
       {
         "mojangName": "data_item",
@@ -5159,7 +5102,6 @@
     "height": 0.0,
     "width": 0.0,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/item_display",
     "metadata": [
       {
         "mojangName": "data_item_stack_id",
@@ -5297,7 +5239,6 @@
     "height": 0.5,
     "width": 0.5,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/item_frame",
     "metadata": [
       {
         "mojangName": "data_item",
@@ -5360,7 +5301,6 @@
     "height": 0.5,
     "width": 0.375,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/leash_knot",
     "metadata": [
       {
         "mojangName": "data_shared_flags_id",
@@ -5413,7 +5353,6 @@
     "height": 0.0,
     "width": 0.0,
     "clientTrackingRange": 16,
-    "lootTableLocation": "minecraft:entities/lightning_bolt",
     "metadata": [
       {
         "mojangName": "data_shared_flags_id",
@@ -5466,7 +5405,6 @@
     "height": 1.87,
     "width": 0.9,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/llama",
     "metadata": [
       {
         "mojangName": "data_strength_id",
@@ -5589,7 +5527,6 @@
     "height": 0.25,
     "width": 0.25,
     "clientTrackingRange": 4,
-    "lootTableLocation": "minecraft:entities/llama_spit",
     "metadata": [
       {
         "mojangName": "data_shared_flags_id",
@@ -5642,7 +5579,6 @@
     "height": 2.04,
     "width": 2.04,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/magma_cube",
     "metadata": [
       {
         "mojangName": "id_size",
@@ -5740,7 +5676,6 @@
     "height": 0.0,
     "width": 0.0,
     "clientTrackingRange": 0,
-    "lootTableLocation": "minecraft:entities/marker",
     "metadata": [
       {
         "mojangName": "data_shared_flags_id",
@@ -5793,7 +5728,6 @@
     "height": 0.7,
     "width": 0.98,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/minecart",
     "metadata": [
       {
         "mojangName": "data_id_hurt",
@@ -5876,7 +5810,6 @@
     "height": 1.4,
     "width": 0.9,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/mooshroom",
     "metadata": [
       {
         "mojangName": "data_type",
@@ -5979,7 +5912,6 @@
     "height": 1.6,
     "width": 1.3964844,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/mule",
     "metadata": [
       {
         "mojangName": "data_id_chest",
@@ -6087,7 +6019,6 @@
     "height": 0.7,
     "width": 0.6,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/ocelot",
     "metadata": [
       {
         "mojangName": "data_trusting",
@@ -6190,7 +6121,6 @@
     "height": 0.5,
     "width": 0.5,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/painting",
     "metadata": [
       {
         "mojangName": "data_painting_variant_id",
@@ -6248,7 +6178,6 @@
     "height": 1.25,
     "width": 1.3,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/panda",
     "metadata": [
       {
         "mojangName": "unhappy_counter",
@@ -6376,7 +6305,6 @@
     "height": 0.9,
     "width": 0.5,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/parrot",
     "metadata": [
       {
         "mojangName": "data_variant_id",
@@ -6489,7 +6417,6 @@
     "height": 0.5,
     "width": 0.9,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/phantom",
     "metadata": [
       {
         "mojangName": "id_size",
@@ -6587,7 +6514,6 @@
     "height": 0.9,
     "width": 0.9,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/pig",
     "metadata": [
       {
         "mojangName": "data_saddle_id",
@@ -6695,7 +6621,6 @@
     "height": 1.95,
     "width": 0.6,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/piglin",
     "metadata": [
       {
         "mojangName": "data_baby_id",
@@ -6808,7 +6733,6 @@
     "height": 1.95,
     "width": 0.6,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/piglin_brute",
     "metadata": [
       {
         "mojangName": "data_immune_to_zombification",
@@ -6906,7 +6830,6 @@
     "height": 1.95,
     "width": 0.6,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/pillager",
     "metadata": [
       {
         "mojangName": "is_charging_crossbow",
@@ -7009,7 +6932,6 @@
     "height": 1.8,
     "width": 0.6,
     "clientTrackingRange": 32,
-    "lootTableLocation": "minecraft:entities/player",
     "metadata": [
       {
         "mojangName": "data_player_absorption_id",
@@ -7127,7 +7049,6 @@
     "height": 1.4,
     "width": 1.4,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/polar_bear",
     "metadata": [
       {
         "mojangName": "data_standing_id",
@@ -7230,7 +7151,6 @@
     "height": 0.25,
     "width": 0.25,
     "clientTrackingRange": 4,
-    "lootTableLocation": "minecraft:entities/potion",
     "metadata": [
       {
         "mojangName": "data_item_stack",
@@ -7288,7 +7208,6 @@
     "height": 0.7,
     "width": 0.7,
     "clientTrackingRange": 4,
-    "lootTableLocation": "minecraft:entities/pufferfish",
     "metadata": [
       {
         "mojangName": "puff_state",
@@ -7391,7 +7310,6 @@
     "height": 0.5,
     "width": 0.4,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/rabbit",
     "metadata": [
       {
         "mojangName": "data_type_id",
@@ -7494,7 +7412,6 @@
     "height": 2.2,
     "width": 1.95,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/ravager",
     "metadata": [
       {
         "mojangName": "is_celebrating",
@@ -7592,7 +7509,6 @@
     "height": 0.4,
     "width": 0.7,
     "clientTrackingRange": 4,
-    "lootTableLocation": "minecraft:entities/salmon",
     "metadata": [
       {
         "mojangName": "from_bucket",
@@ -7690,7 +7606,6 @@
     "height": 1.3,
     "width": 0.9,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/sheep",
     "metadata": [
       {
         "mojangName": "data_wool_id",
@@ -7793,7 +7708,6 @@
     "height": 1.0,
     "width": 1.0,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/shulker",
     "metadata": [
       {
         "mojangName": "data_attach_face_id",
@@ -7901,7 +7815,6 @@
     "height": 0.3125,
     "width": 0.3125,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/shulker_bullet",
     "metadata": [
       {
         "mojangName": "data_shared_flags_id",
@@ -7954,7 +7867,6 @@
     "height": 0.3,
     "width": 0.4,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/silverfish",
     "metadata": [
       {
         "mojangName": "data_mob_flags_id",
@@ -8047,7 +7959,6 @@
     "height": 1.99,
     "width": 0.6,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/skeleton",
     "metadata": [
       {
         "mojangName": "data_stray_conversion_id",
@@ -8145,7 +8056,6 @@
     "height": 1.6,
     "width": 1.3964844,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/skeleton_horse",
     "metadata": [
       {
         "mojangName": "data_id_flags",
@@ -8248,7 +8158,6 @@
     "height": 2.04,
     "width": 2.04,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/slime",
     "metadata": [
       {
         "mojangName": "id_size",
@@ -8346,7 +8255,6 @@
     "height": 0.3125,
     "width": 0.3125,
     "clientTrackingRange": 4,
-    "lootTableLocation": "minecraft:entities/small_fireball",
     "metadata": [
       {
         "mojangName": "data_item_stack",
@@ -8404,7 +8312,6 @@
     "height": 1.75,
     "width": 1.9,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/sniffer",
     "metadata": [
       {
         "mojangName": "data_state",
@@ -8512,7 +8419,6 @@
     "height": 1.9,
     "width": 0.7,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/snow_golem",
     "metadata": [
       {
         "mojangName": "data_pumpkin_id",
@@ -8610,7 +8516,6 @@
     "height": 0.25,
     "width": 0.25,
     "clientTrackingRange": 4,
-    "lootTableLocation": "minecraft:entities/snowball",
     "metadata": [
       {
         "mojangName": "data_item_stack",
@@ -8668,7 +8573,6 @@
     "height": 0.7,
     "width": 0.98,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/spawner_minecart",
     "metadata": [
       {
         "mojangName": "data_id_hurt",
@@ -8751,7 +8655,6 @@
     "height": 0.5,
     "width": 0.5,
     "clientTrackingRange": 4,
-    "lootTableLocation": "minecraft:entities/spectral_arrow",
     "metadata": [
       {
         "mojangName": "id_flags",
@@ -8814,7 +8717,6 @@
     "height": 0.9,
     "width": 1.4,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/spider",
     "metadata": [
       {
         "mojangName": "data_flags_id",
@@ -8912,7 +8814,6 @@
     "height": 0.8,
     "width": 0.8,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/squid",
     "metadata": [
       {
         "mojangName": "data_mob_flags_id",
@@ -9005,7 +8906,6 @@
     "height": 1.99,
     "width": 0.6,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/stray",
     "metadata": [
       {
         "mojangName": "data_mob_flags_id",
@@ -9098,7 +8998,6 @@
     "height": 1.7,
     "width": 0.9,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/strider",
     "metadata": [
       {
         "mojangName": "data_boost_time",
@@ -9211,7 +9110,6 @@
     "height": 0.3,
     "width": 0.4,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/tadpole",
     "metadata": [
       {
         "mojangName": "from_bucket",
@@ -9309,7 +9207,6 @@
     "height": 0.0,
     "width": 0.0,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/text_display",
     "metadata": [
       {
         "mojangName": "data_text_id",
@@ -9462,7 +9359,6 @@
     "height": 0.98,
     "width": 0.98,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/tnt",
     "metadata": [
       {
         "mojangName": "data_fuse_id",
@@ -9520,7 +9416,6 @@
     "height": 0.7,
     "width": 0.98,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/tnt_minecart",
     "metadata": [
       {
         "mojangName": "data_id_hurt",
@@ -9603,7 +9498,6 @@
     "height": 1.87,
     "width": 0.9,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/trader_llama",
     "metadata": [
       {
         "mojangName": "data_strength_id",
@@ -9726,7 +9620,6 @@
     "height": 0.5,
     "width": 0.5,
     "clientTrackingRange": 4,
-    "lootTableLocation": "minecraft:entities/trident",
     "metadata": [
       {
         "mojangName": "id_loyalty",
@@ -9799,7 +9692,6 @@
     "height": 0.4,
     "width": 0.5,
     "clientTrackingRange": 4,
-    "lootTableLocation": "minecraft:entities/tropical_fish",
     "metadata": [
       {
         "mojangName": "data_id_type_variant",
@@ -9902,7 +9794,6 @@
     "height": 0.4,
     "width": 1.2,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/turtle",
     "metadata": [
       {
         "mojangName": "home_pos",
@@ -10030,7 +9921,6 @@
     "height": 0.8,
     "width": 0.4,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/vex",
     "metadata": [
       {
         "mojangName": "data_flags_id",
@@ -10128,7 +10018,6 @@
     "height": 1.95,
     "width": 0.6,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/villager",
     "metadata": [
       {
         "mojangName": "data_villager_data",
@@ -10236,7 +10125,6 @@
     "height": 1.95,
     "width": 0.6,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/vindicator",
     "metadata": [
       {
         "mojangName": "is_celebrating",
@@ -10334,7 +10222,6 @@
     "height": 1.95,
     "width": 0.6,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/wandering_trader",
     "metadata": [
       {
         "mojangName": "data_unhappy_counter",
@@ -10437,7 +10324,6 @@
     "height": 2.9,
     "width": 0.9,
     "clientTrackingRange": 16,
-    "lootTableLocation": "minecraft:entities/warden",
     "metadata": [
       {
         "mojangName": "client_anger_level",
@@ -10535,7 +10421,6 @@
     "height": 1.95,
     "width": 0.6,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/witch",
     "metadata": [
       {
         "mojangName": "data_using_item",
@@ -10638,7 +10523,6 @@
     "height": 3.5,
     "width": 0.9,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/wither",
     "metadata": [
       {
         "mojangName": "data_target_a",
@@ -10751,7 +10635,6 @@
     "height": 2.4,
     "width": 0.7,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/wither_skeleton",
     "metadata": [
       {
         "mojangName": "data_mob_flags_id",
@@ -10844,7 +10727,6 @@
     "height": 0.3125,
     "width": 0.3125,
     "clientTrackingRange": 4,
-    "lootTableLocation": "minecraft:entities/wither_skull",
     "metadata": [
       {
         "mojangName": "data_dangerous",
@@ -10902,7 +10784,6 @@
     "height": 0.85,
     "width": 0.6,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/wolf",
     "metadata": [
       {
         "mojangName": "data_interested_id",
@@ -11025,7 +10906,6 @@
     "height": 1.4,
     "width": 1.3964844,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/zoglin",
     "metadata": [
       {
         "mojangName": "data_baby_id",
@@ -11123,7 +11003,6 @@
     "height": 1.95,
     "width": 0.6,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/zombie",
     "metadata": [
       {
         "mojangName": "data_baby_id",
@@ -11231,7 +11110,6 @@
     "height": 1.6,
     "width": 1.3964844,
     "clientTrackingRange": 10,
-    "lootTableLocation": "minecraft:entities/zombie_horse",
     "metadata": [
       {
         "mojangName": "data_id_flags",
@@ -11334,7 +11212,6 @@
     "height": 1.95,
     "width": 0.6,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/zombie_villager",
     "metadata": [
       {
         "mojangName": "data_converting_id",
@@ -11452,7 +11329,6 @@
     "height": 1.95,
     "width": 0.6,
     "clientTrackingRange": 8,
-    "lootTableLocation": "minecraft:entities/zombified_piglin",
     "metadata": [
       {
         "mojangName": "data_baby_id",
