@@ -289,13 +289,6 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "foodProperties": {
-      "alwaysEdible": false,
-      "isFastFood": false,
-      "nutrition": 4,
-      "saturationModifier": 0.3,
-      "effects": []
-    },
     "specificItemData": {}
   },
   "minecraft:archer_pottery_sherd": {
@@ -394,13 +387,6 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "foodProperties": {
-      "alwaysEdible": false,
-      "isFastFood": false,
-      "nutrition": 5,
-      "saturationModifier": 0.6,
-      "effects": []
-    },
     "specificItemData": {}
   },
   "minecraft:bamboo": {
@@ -652,13 +638,6 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "foodProperties": {
-      "alwaysEdible": false,
-      "isFastFood": false,
-      "nutrition": 3,
-      "saturationModifier": 0.3,
-      "effects": []
-    },
     "specificItemData": {}
   },
   "minecraft:beehive": {
@@ -677,13 +656,6 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "foodProperties": {
-      "alwaysEdible": false,
-      "isFastFood": false,
-      "nutrition": 1,
-      "saturationModifier": 0.6,
-      "effects": []
-    },
     "specificItemData": {}
   },
   "minecraft:beetroot_seeds": {
@@ -702,13 +674,6 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "foodProperties": {
-      "alwaysEdible": false,
-      "isFastFood": false,
-      "nutrition": 6,
-      "saturationModifier": 0.6,
-      "effects": []
-    },
     "specificItemData": {}
   },
   "minecraft:bell": {
@@ -1324,13 +1289,6 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "foodProperties": {
-      "alwaysEdible": false,
-      "isFastFood": false,
-      "nutrition": 5,
-      "saturationModifier": 0.6,
-      "effects": []
-    },
     "specificItemData": {}
   },
   "minecraft:brewer_pottery_sherd": {
@@ -1685,13 +1643,6 @@
     "blockId": "minecraft:carrots",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "foodProperties": {
-      "alwaysEdible": false,
-      "isFastFood": false,
-      "nutrition": 3,
-      "saturationModifier": 0.6,
-      "effects": []
-    },
     "specificItemData": {}
   },
   "minecraft:carrot_on_a_stick": {
@@ -2021,20 +1972,6 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "foodProperties": {
-      "alwaysEdible": false,
-      "isFastFood": false,
-      "nutrition": 2,
-      "saturationModifier": 0.3,
-      "effects": [
-        {
-          "id": "minecraft:hunger",
-          "amplifier": 0,
-          "duration": 600,
-          "chance": 0.3
-        }
-      ]
-    },
     "specificItemData": {}
   },
   "minecraft:chicken_spawn_egg": {
@@ -2147,13 +2084,6 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "foodProperties": {
-      "alwaysEdible": true,
-      "isFastFood": false,
-      "nutrition": 4,
-      "saturationModifier": 0.3,
-      "effects": []
-    },
     "specificItemData": {}
   },
   "minecraft:chorus_plant": {
@@ -2334,13 +2264,6 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "foodProperties": {
-      "alwaysEdible": false,
-      "isFastFood": false,
-      "nutrition": 2,
-      "saturationModifier": 0.1,
-      "effects": []
-    },
     "specificItemData": {}
   },
   "minecraft:cod_bucket": {
@@ -2430,13 +2353,6 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "foodProperties": {
-      "alwaysEdible": false,
-      "isFastFood": false,
-      "nutrition": 8,
-      "saturationModifier": 0.8,
-      "effects": []
-    },
     "specificItemData": {}
   },
   "minecraft:cooked_chicken": {
@@ -2446,13 +2362,6 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "foodProperties": {
-      "alwaysEdible": false,
-      "isFastFood": false,
-      "nutrition": 6,
-      "saturationModifier": 0.6,
-      "effects": []
-    },
     "specificItemData": {}
   },
   "minecraft:cooked_cod": {
@@ -2462,13 +2371,6 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "foodProperties": {
-      "alwaysEdible": false,
-      "isFastFood": false,
-      "nutrition": 5,
-      "saturationModifier": 0.6,
-      "effects": []
-    },
     "specificItemData": {}
   },
   "minecraft:cooked_mutton": {
@@ -2478,13 +2380,6 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "foodProperties": {
-      "alwaysEdible": false,
-      "isFastFood": false,
-      "nutrition": 6,
-      "saturationModifier": 0.8,
-      "effects": []
-    },
     "specificItemData": {}
   },
   "minecraft:cooked_porkchop": {
@@ -2494,13 +2389,6 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "foodProperties": {
-      "alwaysEdible": false,
-      "isFastFood": false,
-      "nutrition": 8,
-      "saturationModifier": 0.8,
-      "effects": []
-    },
     "specificItemData": {}
   },
   "minecraft:cooked_rabbit": {
@@ -2510,13 +2398,6 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "foodProperties": {
-      "alwaysEdible": false,
-      "isFastFood": false,
-      "nutrition": 5,
-      "saturationModifier": 0.6,
-      "effects": []
-    },
     "specificItemData": {}
   },
   "minecraft:cooked_salmon": {
@@ -2526,13 +2407,6 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "foodProperties": {
-      "alwaysEdible": false,
-      "isFastFood": false,
-      "nutrition": 6,
-      "saturationModifier": 0.8,
-      "effects": []
-    },
     "specificItemData": {}
   },
   "minecraft:cookie": {
@@ -2542,13 +2416,6 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "foodProperties": {
-      "alwaysEdible": false,
-      "isFastFood": false,
-      "nutrition": 2,
-      "saturationModifier": 0.1,
-      "effects": []
-    },
     "specificItemData": {}
   },
   "minecraft:copper_block": {
@@ -3864,13 +3731,6 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "foodProperties": {
-      "alwaysEdible": false,
-      "isFastFood": true,
-      "nutrition": 1,
-      "saturationModifier": 0.3,
-      "effects": []
-    },
     "specificItemData": {}
   },
   "minecraft:dried_kelp_block": {
@@ -4005,38 +3865,6 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "foodProperties": {
-      "alwaysEdible": true,
-      "isFastFood": false,
-      "nutrition": 4,
-      "saturationModifier": 1.2,
-      "effects": [
-        {
-          "id": "minecraft:regeneration",
-          "amplifier": 1,
-          "duration": 400,
-          "chance": 1.0
-        },
-        {
-          "id": "minecraft:resistance",
-          "amplifier": 0,
-          "duration": 6000,
-          "chance": 1.0
-        },
-        {
-          "id": "minecraft:fire_resistance",
-          "amplifier": 0,
-          "duration": 6000,
-          "chance": 1.0
-        },
-        {
-          "id": "minecraft:absorption",
-          "amplifier": 3,
-          "duration": 2400,
-          "chance": 1.0
-        }
-      ]
-    },
     "specificItemData": {}
   },
   "minecraft:enchanting_table": {
@@ -4578,13 +4406,6 @@
     "blockId": "minecraft:cave_vines",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "foodProperties": {
-      "alwaysEdible": false,
-      "isFastFood": false,
-      "nutrition": 2,
-      "saturationModifier": 0.1,
-      "effects": []
-    },
     "specificItemData": {}
   },
   "minecraft:glow_ink_sac": {
@@ -4710,26 +4531,6 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "foodProperties": {
-      "alwaysEdible": true,
-      "isFastFood": false,
-      "nutrition": 4,
-      "saturationModifier": 1.2,
-      "effects": [
-        {
-          "id": "minecraft:regeneration",
-          "amplifier": 1,
-          "duration": 100,
-          "chance": 1.0
-        },
-        {
-          "id": "minecraft:absorption",
-          "amplifier": 0,
-          "duration": 2400,
-          "chance": 1.0
-        }
-      ]
-    },
     "specificItemData": {}
   },
   "minecraft:golden_axe": {
@@ -4767,13 +4568,6 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "foodProperties": {
-      "alwaysEdible": false,
-      "isFastFood": false,
-      "nutrition": 6,
-      "saturationModifier": 1.2,
-      "effects": []
-    },
     "specificItemData": {}
   },
   "minecraft:golden_chestplate": {
@@ -5301,13 +5095,6 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:item.honey_bottle.drink",
     "drinkingSound": "minecraft:item.honey_bottle.drink",
-    "foodProperties": {
-      "alwaysEdible": false,
-      "isFastFood": false,
-      "nutrition": 6,
-      "saturationModifier": 0.1,
-      "effects": []
-    },
     "specificItemData": {}
   },
   "minecraft:honeycomb": {
@@ -6910,13 +6697,6 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "foodProperties": {
-      "alwaysEdible": false,
-      "isFastFood": false,
-      "nutrition": 2,
-      "saturationModifier": 0.3,
-      "effects": []
-    },
     "specificItemData": {}
   },
   "minecraft:milk_bucket": {
@@ -7150,13 +6930,6 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "foodProperties": {
-      "alwaysEdible": false,
-      "isFastFood": false,
-      "nutrition": 6,
-      "saturationModifier": 0.6,
-      "effects": []
-    },
     "specificItemData": {}
   },
   "minecraft:music_disc_11": {
@@ -7310,13 +7083,6 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "foodProperties": {
-      "alwaysEdible": false,
-      "isFastFood": false,
-      "nutrition": 2,
-      "saturationModifier": 0.3,
-      "effects": []
-    },
     "specificItemData": {}
   },
   "minecraft:mycelium": {
@@ -8391,20 +8157,6 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "foodProperties": {
-      "alwaysEdible": false,
-      "isFastFood": false,
-      "nutrition": 2,
-      "saturationModifier": 0.3,
-      "effects": [
-        {
-          "id": "minecraft:poison",
-          "amplifier": 0,
-          "duration": 100,
-          "chance": 0.6
-        }
-      ]
-    },
     "specificItemData": {}
   },
   "minecraft:polar_bear_spawn_egg": {
@@ -8661,13 +8413,6 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "foodProperties": {
-      "alwaysEdible": false,
-      "isFastFood": false,
-      "nutrition": 3,
-      "saturationModifier": 0.3,
-      "effects": []
-    },
     "specificItemData": {}
   },
   "minecraft:potato": {
@@ -8677,13 +8422,6 @@
     "blockId": "minecraft:potatoes",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "foodProperties": {
-      "alwaysEdible": false,
-      "isFastFood": false,
-      "nutrition": 1,
-      "saturationModifier": 0.3,
-      "effects": []
-    },
     "specificItemData": {}
   },
   "minecraft:potion": {
@@ -8810,32 +8548,6 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "foodProperties": {
-      "alwaysEdible": false,
-      "isFastFood": false,
-      "nutrition": 1,
-      "saturationModifier": 0.1,
-      "effects": [
-        {
-          "id": "minecraft:poison",
-          "amplifier": 1,
-          "duration": 1200,
-          "chance": 1.0
-        },
-        {
-          "id": "minecraft:hunger",
-          "amplifier": 2,
-          "duration": 300,
-          "chance": 1.0
-        },
-        {
-          "id": "minecraft:nausea",
-          "amplifier": 0,
-          "duration": 300,
-          "chance": 1.0
-        }
-      ]
-    },
     "specificItemData": {}
   },
   "minecraft:pufferfish_bucket": {
@@ -8880,13 +8592,6 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "foodProperties": {
-      "alwaysEdible": false,
-      "isFastFood": false,
-      "nutrition": 8,
-      "saturationModifier": 0.3,
-      "effects": []
-    },
     "specificItemData": {}
   },
   "minecraft:pumpkin_seeds": {
@@ -9116,13 +8821,6 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "foodProperties": {
-      "alwaysEdible": false,
-      "isFastFood": false,
-      "nutrition": 3,
-      "saturationModifier": 0.3,
-      "effects": []
-    },
     "specificItemData": {}
   },
   "minecraft:rabbit_foot": {
@@ -9163,13 +8861,6 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "foodProperties": {
-      "alwaysEdible": false,
-      "isFastFood": false,
-      "nutrition": 10,
-      "saturationModifier": 0.6,
-      "effects": []
-    },
     "specificItemData": {}
   },
   "minecraft:rail": {
@@ -9610,20 +9301,6 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "foodProperties": {
-      "alwaysEdible": false,
-      "isFastFood": false,
-      "nutrition": 4,
-      "saturationModifier": 0.1,
-      "effects": [
-        {
-          "id": "minecraft:hunger",
-          "amplifier": 0,
-          "duration": 600,
-          "chance": 0.8
-        }
-      ]
-    },
     "specificItemData": {}
   },
   "minecraft:saddle": {
@@ -9642,13 +9319,6 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "foodProperties": {
-      "alwaysEdible": false,
-      "isFastFood": false,
-      "nutrition": 2,
-      "saturationModifier": 0.1,
-      "effects": []
-    },
     "specificItemData": {}
   },
   "minecraft:salmon_bucket": {
@@ -10319,20 +9989,6 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "foodProperties": {
-      "alwaysEdible": false,
-      "isFastFood": false,
-      "nutrition": 2,
-      "saturationModifier": 0.8,
-      "effects": [
-        {
-          "id": "minecraft:poison",
-          "amplifier": 0,
-          "duration": 100,
-          "chance": 1.0
-        }
-      ]
-    },
     "specificItemData": {}
   },
   "minecraft:spider_spawn_egg": {
@@ -11026,13 +10682,6 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "foodProperties": {
-      "alwaysEdible": true,
-      "isFastFood": false,
-      "nutrition": 6,
-      "saturationModifier": 0.6,
-      "effects": []
-    },
     "specificItemData": {}
   },
   "minecraft:sweet_berries": {
@@ -11042,13 +10691,6 @@
     "blockId": "minecraft:sweet_berry_bush",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "foodProperties": {
-      "alwaysEdible": false,
-      "isFastFood": false,
-      "nutrition": 2,
-      "saturationModifier": 0.1,
-      "effects": []
-    },
     "specificItemData": {}
   },
   "minecraft:tadpole_bucket": {
@@ -11232,13 +10874,6 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "foodProperties": {
-      "alwaysEdible": false,
-      "isFastFood": false,
-      "nutrition": 1,
-      "saturationModifier": 0.1,
-      "effects": []
-    },
     "specificItemData": {}
   },
   "minecraft:tropical_fish_bucket": {
