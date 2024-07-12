@@ -14,7 +14,6 @@
     "mojangName": "FIRE_RESISTANCE",
     "potion_effects": [
       {
-        "id": "minecraft:fire_resistance",
         "duration": 3600,
         "amplifier": 0,
         "visible": true,
@@ -28,7 +27,6 @@
     "mojangName": "HARMING",
     "potion_effects": [
       {
-        "id": "minecraft:instant_damage",
         "duration": 1,
         "amplifier": 0,
         "visible": true,
@@ -42,7 +40,6 @@
     "mojangName": "HEALING",
     "potion_effects": [
       {
-        "id": "minecraft:instant_health",
         "duration": 1,
         "amplifier": 0,
         "visible": true,
@@ -56,7 +53,6 @@
     "mojangName": "INVISIBILITY",
     "potion_effects": [
       {
-        "id": "minecraft:invisibility",
         "duration": 3600,
         "amplifier": 0,
         "visible": true,
@@ -70,7 +66,6 @@
     "mojangName": "LEAPING",
     "potion_effects": [
       {
-        "id": "minecraft:jump_boost",
         "duration": 3600,
         "amplifier": 0,
         "visible": true,
@@ -84,7 +79,6 @@
     "mojangName": "LONG_FIRE_RESISTANCE",
     "potion_effects": [
       {
-        "id": "minecraft:fire_resistance",
         "duration": 9600,
         "amplifier": 0,
         "visible": true,
@@ -98,7 +92,6 @@
     "mojangName": "LONG_INVISIBILITY",
     "potion_effects": [
       {
-        "id": "minecraft:invisibility",
         "duration": 9600,
         "amplifier": 0,
         "visible": true,
@@ -112,7 +105,6 @@
     "mojangName": "LONG_LEAPING",
     "potion_effects": [
       {
-        "id": "minecraft:jump_boost",
         "duration": 9600,
         "amplifier": 0,
         "visible": true,
@@ -126,7 +118,6 @@
     "mojangName": "LONG_NIGHT_VISION",
     "potion_effects": [
       {
-        "id": "minecraft:night_vision",
         "duration": 9600,
         "amplifier": 0,
         "visible": true,
@@ -140,7 +131,6 @@
     "mojangName": "LONG_POISON",
     "potion_effects": [
       {
-        "id": "minecraft:poison",
         "duration": 1800,
         "amplifier": 0,
         "visible": true,
@@ -154,7 +144,6 @@
     "mojangName": "LONG_REGENERATION",
     "potion_effects": [
       {
-        "id": "minecraft:regeneration",
         "duration": 1800,
         "amplifier": 0,
         "visible": true,
@@ -168,7 +157,6 @@
     "mojangName": "LONG_SLOW_FALLING",
     "potion_effects": [
       {
-        "id": "minecraft:slow_falling",
         "duration": 4800,
         "amplifier": 0,
         "visible": true,
@@ -182,7 +170,6 @@
     "mojangName": "LONG_SLOWNESS",
     "potion_effects": [
       {
-        "id": "minecraft:slowness",
         "duration": 4800,
         "amplifier": 0,
         "visible": true,
@@ -196,7 +183,6 @@
     "mojangName": "LONG_STRENGTH",
     "potion_effects": [
       {
-        "id": "minecraft:strength",
         "duration": 9600,
         "amplifier": 0,
         "visible": true,
@@ -210,7 +196,6 @@
     "mojangName": "LONG_SWIFTNESS",
     "potion_effects": [
       {
-        "id": "minecraft:speed",
         "duration": 9600,
         "amplifier": 0,
         "visible": true,
@@ -224,7 +209,6 @@
     "mojangName": "LONG_TURTLE_MASTER",
     "potion_effects": [
       {
-        "id": "minecraft:slowness",
         "duration": 800,
         "amplifier": 3,
         "visible": true,
@@ -232,7 +216,6 @@
         "showIcon": true
       },
       {
-        "id": "minecraft:resistance",
         "duration": 800,
         "amplifier": 2,
         "visible": true,
@@ -246,7 +229,6 @@
     "mojangName": "LONG_WATER_BREATHING",
     "potion_effects": [
       {
-        "id": "minecraft:water_breathing",
         "duration": 9600,
         "amplifier": 0,
         "visible": true,
@@ -260,7 +242,6 @@
     "mojangName": "LONG_WEAKNESS",
     "potion_effects": [
       {
-        "id": "minecraft:weakness",
         "duration": 4800,
         "amplifier": 0,
         "visible": true,
@@ -274,7 +255,6 @@
     "mojangName": "LUCK",
     "potion_effects": [
       {
-        "id": "minecraft:luck",
         "duration": 6000,
         "amplifier": 0,
         "visible": true,
@@ -293,7 +273,6 @@
     "mojangName": "NIGHT_VISION",
     "potion_effects": [
       {
-        "id": "minecraft:night_vision",
         "duration": 3600,
         "amplifier": 0,
         "visible": true,
@@ -307,7 +286,6 @@
     "mojangName": "POISON",
     "potion_effects": [
       {
-        "id": "minecraft:poison",
         "duration": 900,
         "amplifier": 0,
         "visible": true,
@@ -321,7 +299,6 @@
     "mojangName": "REGENERATION",
     "potion_effects": [
       {
-        "id": "minecraft:regeneration",
         "duration": 900,
         "amplifier": 0,
         "visible": true,
@@ -335,7 +312,6 @@
     "mojangName": "SLOW_FALLING",
     "potion_effects": [
       {
-        "id": "minecraft:slow_falling",
         "duration": 1800,
         "amplifier": 0,
         "visible": true,
@@ -349,7 +325,6 @@
     "mojangName": "SLOWNESS",
     "potion_effects": [
       {
-        "id": "minecraft:slowness",
         "duration": 1800,
         "amplifier": 0,
         "visible": true,
@@ -363,7 +338,6 @@
     "mojangName": "STRENGTH",
     "potion_effects": [
       {
-        "id": "minecraft:strength",
         "duration": 3600,
         "amplifier": 0,
         "visible": true,
@@ -377,7 +351,6 @@
     "mojangName": "STRONG_HARMING",
     "potion_effects": [
       {
-        "id": "minecraft:instant_damage",
         "duration": 1,
         "amplifier": 1,
         "visible": true,
@@ -391,7 +364,6 @@
     "mojangName": "STRONG_HEALING",
     "potion_effects": [
       {
-        "id": "minecraft:instant_health",
         "duration": 1,
         "amplifier": 1,
         "visible": true,
@@ -405,7 +377,6 @@
     "mojangName": "STRONG_LEAPING",
     "potion_effects": [
       {
-        "id": "minecraft:jump_boost",
         "duration": 1800,
         "amplifier": 1,
         "visible": true,
@@ -419,7 +390,6 @@
     "mojangName": "STRONG_POISON",
     "potion_effects": [
       {
-        "id": "minecraft:poison",
         "duration": 432,
         "amplifier": 1,
         "visible": true,
@@ -433,7 +403,6 @@
     "mojangName": "STRONG_REGENERATION",
     "potion_effects": [
       {
-        "id": "minecraft:regeneration",
         "duration": 450,
         "amplifier": 1,
         "visible": true,
@@ -447,7 +416,6 @@
     "mojangName": "STRONG_SLOWNESS",
     "potion_effects": [
       {
-        "id": "minecraft:slowness",
         "duration": 400,
         "amplifier": 3,
         "visible": true,
@@ -461,7 +429,6 @@
     "mojangName": "STRONG_STRENGTH",
     "potion_effects": [
       {
-        "id": "minecraft:strength",
         "duration": 1800,
         "amplifier": 1,
         "visible": true,
@@ -475,7 +442,6 @@
     "mojangName": "STRONG_SWIFTNESS",
     "potion_effects": [
       {
-        "id": "minecraft:speed",
         "duration": 1800,
         "amplifier": 1,
         "visible": true,
@@ -489,7 +455,6 @@
     "mojangName": "STRONG_TURTLE_MASTER",
     "potion_effects": [
       {
-        "id": "minecraft:slowness",
         "duration": 400,
         "amplifier": 5,
         "visible": true,
@@ -497,7 +462,6 @@
         "showIcon": true
       },
       {
-        "id": "minecraft:resistance",
         "duration": 400,
         "amplifier": 3,
         "visible": true,
@@ -511,7 +475,6 @@
     "mojangName": "SWIFTNESS",
     "potion_effects": [
       {
-        "id": "minecraft:speed",
         "duration": 3600,
         "amplifier": 0,
         "visible": true,
@@ -530,7 +493,6 @@
     "mojangName": "TURTLE_MASTER",
     "potion_effects": [
       {
-        "id": "minecraft:slowness",
         "duration": 400,
         "amplifier": 3,
         "visible": true,
@@ -538,7 +500,6 @@
         "showIcon": true
       },
       {
-        "id": "minecraft:resistance",
         "duration": 400,
         "amplifier": 2,
         "visible": true,
@@ -557,7 +518,6 @@
     "mojangName": "WATER_BREATHING",
     "potion_effects": [
       {
-        "id": "minecraft:water_breathing",
         "duration": 3600,
         "amplifier": 0,
         "visible": true,
@@ -571,7 +531,6 @@
     "mojangName": "WEAKNESS",
     "potion_effects": [
       {
-        "id": "minecraft:weakness",
         "duration": 1800,
         "amplifier": 0,
         "visible": true,
