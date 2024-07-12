@@ -10,7 +10,6 @@
     "properties": [],
     "states": [
       {
-        "properties": {},
         "stateId": 0,
         "source": false,
         "height": 0.0,
@@ -34,10 +33,6 @@
     ],
     "states": [
       {
-        "properties": {
-          "falling": true,
-          "level": 1
-        },
         "stateId": 19,
         "source": false,
         "height": 0.11111111,
@@ -46,10 +41,6 @@
         "blockState": "minecraft:lava"
       },
       {
-        "properties": {
-          "falling": true,
-          "level": 2
-        },
         "stateId": 20,
         "source": false,
         "height": 0.22222222,
@@ -58,10 +49,6 @@
         "blockState": "minecraft:lava"
       },
       {
-        "properties": {
-          "falling": true,
-          "level": 3
-        },
         "stateId": 21,
         "source": false,
         "height": 0.33333334,
@@ -70,10 +57,6 @@
         "blockState": "minecraft:lava"
       },
       {
-        "properties": {
-          "falling": true,
-          "level": 4
-        },
         "stateId": 22,
         "source": false,
         "height": 0.44444445,
@@ -82,10 +65,6 @@
         "blockState": "minecraft:lava"
       },
       {
-        "properties": {
-          "falling": true,
-          "level": 5
-        },
         "stateId": 23,
         "source": false,
         "height": 0.5555556,
@@ -94,10 +73,6 @@
         "blockState": "minecraft:lava"
       },
       {
-        "properties": {
-          "falling": true,
-          "level": 6
-        },
         "stateId": 24,
         "source": false,
         "height": 0.6666667,
@@ -106,10 +81,6 @@
         "blockState": "minecraft:lava"
       },
       {
-        "properties": {
-          "falling": true,
-          "level": 7
-        },
         "stateId": 25,
         "source": false,
         "height": 0.7777778,
@@ -118,10 +89,6 @@
         "blockState": "minecraft:lava"
       },
       {
-        "properties": {
-          "falling": true,
-          "level": 8
-        },
         "stateId": 26,
         "source": false,
         "height": 0.8888889,
@@ -130,10 +97,6 @@
         "blockState": "minecraft:lava"
       },
       {
-        "properties": {
-          "falling": false,
-          "level": 1
-        },
         "stateId": 27,
         "source": false,
         "height": 0.11111111,
@@ -142,10 +105,6 @@
         "blockState": "minecraft:lava"
       },
       {
-        "properties": {
-          "falling": false,
-          "level": 2
-        },
         "stateId": 28,
         "source": false,
         "height": 0.22222222,
@@ -154,10 +113,6 @@
         "blockState": "minecraft:lava"
       },
       {
-        "properties": {
-          "falling": false,
-          "level": 3
-        },
         "stateId": 29,
         "source": false,
         "height": 0.33333334,
@@ -166,10 +121,6 @@
         "blockState": "minecraft:lava"
       },
       {
-        "properties": {
-          "falling": false,
-          "level": 4
-        },
         "stateId": 30,
         "source": false,
         "height": 0.44444445,
@@ -178,10 +129,6 @@
         "blockState": "minecraft:lava"
       },
       {
-        "properties": {
-          "falling": false,
-          "level": 5
-        },
         "stateId": 31,
         "source": false,
         "height": 0.5555556,
@@ -190,10 +137,6 @@
         "blockState": "minecraft:lava"
       },
       {
-        "properties": {
-          "falling": false,
-          "level": 6
-        },
         "stateId": 32,
         "source": false,
         "height": 0.6666667,
@@ -202,10 +145,6 @@
         "blockState": "minecraft:lava"
       },
       {
-        "properties": {
-          "falling": false,
-          "level": 7
-        },
         "stateId": 33,
         "source": false,
         "height": 0.7777778,
@@ -214,10 +153,6 @@
         "blockState": "minecraft:lava"
       },
       {
-        "properties": {
-          "falling": false,
-          "level": 8
-        },
         "stateId": 34,
         "source": false,
         "height": 0.8888889,
@@ -241,10 +176,6 @@
     ],
     "states": [
       {
-        "properties": {
-          "falling": true,
-          "level": 1
-        },
         "stateId": 1,
         "source": false,
         "height": 0.11111111,
@@ -253,10 +184,6 @@
         "blockState": "minecraft:water"
       },
       {
-        "properties": {
-          "falling": true,
-          "level": 2
-        },
         "stateId": 2,
         "source": false,
         "height": 0.22222222,
@@ -265,10 +192,6 @@
         "blockState": "minecraft:water"
       },
       {
-        "properties": {
-          "falling": true,
-          "level": 3
-        },
         "stateId": 3,
         "source": false,
         "height": 0.33333334,
@@ -277,10 +200,6 @@
         "blockState": "minecraft:water"
       },
       {
-        "properties": {
-          "falling": true,
-          "level": 4
-        },
         "stateId": 4,
         "source": false,
         "height": 0.44444445,
@@ -289,10 +208,6 @@
         "blockState": "minecraft:water"
       },
       {
-        "properties": {
-          "falling": true,
-          "level": 5
-        },
         "stateId": 5,
         "source": false,
         "height": 0.5555556,
@@ -301,10 +216,6 @@
         "blockState": "minecraft:water"
       },
       {
-        "properties": {
-          "falling": true,
-          "level": 6
-        },
         "stateId": 6,
         "source": false,
         "height": 0.6666667,
@@ -313,10 +224,6 @@
         "blockState": "minecraft:water"
       },
       {
-        "properties": {
-          "falling": true,
-          "level": 7
-        },
         "stateId": 7,
         "source": false,
         "height": 0.7777778,
@@ -325,10 +232,6 @@
         "blockState": "minecraft:water"
       },
       {
-        "properties": {
-          "falling": true,
-          "level": 8
-        },
         "stateId": 8,
         "source": false,
         "height": 0.8888889,
@@ -337,10 +240,6 @@
         "blockState": "minecraft:water"
       },
       {
-        "properties": {
-          "falling": false,
-          "level": 1
-        },
         "stateId": 9,
         "source": false,
         "height": 0.11111111,
@@ -349,10 +248,6 @@
         "blockState": "minecraft:water"
       },
       {
-        "properties": {
-          "falling": false,
-          "level": 2
-        },
         "stateId": 10,
         "source": false,
         "height": 0.22222222,
@@ -361,10 +256,6 @@
         "blockState": "minecraft:water"
       },
       {
-        "properties": {
-          "falling": false,
-          "level": 3
-        },
         "stateId": 11,
         "source": false,
         "height": 0.33333334,
@@ -373,10 +264,6 @@
         "blockState": "minecraft:water"
       },
       {
-        "properties": {
-          "falling": false,
-          "level": 4
-        },
         "stateId": 12,
         "source": false,
         "height": 0.44444445,
@@ -385,10 +272,6 @@
         "blockState": "minecraft:water"
       },
       {
-        "properties": {
-          "falling": false,
-          "level": 5
-        },
         "stateId": 13,
         "source": false,
         "height": 0.5555556,
@@ -397,10 +280,6 @@
         "blockState": "minecraft:water"
       },
       {
-        "properties": {
-          "falling": false,
-          "level": 6
-        },
         "stateId": 14,
         "source": false,
         "height": 0.6666667,
@@ -409,10 +288,6 @@
         "blockState": "minecraft:water"
       },
       {
-        "properties": {
-          "falling": false,
-          "level": 7
-        },
         "stateId": 15,
         "source": false,
         "height": 0.7777778,
@@ -421,10 +296,6 @@
         "blockState": "minecraft:water"
       },
       {
-        "properties": {
-          "falling": false,
-          "level": 8
-        },
         "stateId": 16,
         "source": false,
         "height": 0.8888889,
@@ -447,9 +318,6 @@
     ],
     "states": [
       {
-        "properties": {
-          "falling": true
-        },
         "stateId": 35,
         "source": true,
         "height": 0.8888889,
@@ -458,9 +326,6 @@
         "blockState": "minecraft:lava"
       },
       {
-        "properties": {
-          "falling": false
-        },
         "stateId": 36,
         "source": true,
         "height": 0.8888889,
@@ -483,9 +348,6 @@
     ],
     "states": [
       {
-        "properties": {
-          "falling": true
-        },
         "stateId": 17,
         "source": true,
         "height": 0.8888889,
@@ -494,9 +356,6 @@
         "blockState": "minecraft:water"
       },
       {
-        "properties": {
-          "falling": false
-        },
         "stateId": 18,
         "source": true,
         "height": 0.8888889,
