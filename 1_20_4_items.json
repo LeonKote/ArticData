@@ -177,11 +177,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:allay"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:allium": {
     "id": 220,
@@ -347,11 +343,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:axolotl"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:azalea": {
     "id": 196,
@@ -585,11 +577,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:bat"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:beacon": {
     "id": 395,
@@ -625,11 +613,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:bee"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:beef": {
     "id": 985,
@@ -1047,11 +1031,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:blaze"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:blue_banner": {
     "id": 1137,
@@ -1298,11 +1278,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:breeze"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:brewer_pottery_sherd": {
     "id": 1278,
@@ -1625,11 +1601,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:camel"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:campfire": {
     "id": 1206,
@@ -1692,11 +1664,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:cat"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:cauldron": {
     "id": 1002,
@@ -1714,11 +1682,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:cave_spider"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:chain": {
     "id": 355,
@@ -1994,11 +1958,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:chicken"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:chipped_anvil": {
     "id": 419,
@@ -2326,11 +2286,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:cod"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:command_block": {
     "id": 394,
@@ -2537,11 +2493,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:cow"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:cracked_deepslate_bricks": {
     "id": 346,
@@ -2631,11 +2583,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:creeper"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:crimson_button": {
     "id": 692,
@@ -3763,11 +3711,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:dolphin"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:donkey_spawn_egg": {
     "id": 1019,
@@ -3776,11 +3720,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:donkey"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:dragon_breath": {
     "id": 1150,
@@ -3852,11 +3792,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:drowned"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:dune_armor_trim_smithing_template": {
     "id": 1259,
@@ -3892,11 +3828,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:elder_guardian"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:elytra": {
     "id": 772,
@@ -4049,11 +3981,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:ender_dragon"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:ender_eye": {
     "id": 1003,
@@ -4080,11 +4008,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:enderman"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:endermite_spawn_egg": {
     "id": 1024,
@@ -4093,11 +4017,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:endermite"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:evoker_spawn_egg": {
     "id": 1025,
@@ -4106,11 +4026,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:evoker"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:experience_bottle": {
     "id": 1083,
@@ -4398,11 +4314,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:fox"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:friend_pottery_sherd": {
     "id": 1282,
@@ -4420,11 +4332,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:frog"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:frogspawn": {
     "id": 1254,
@@ -4460,11 +4368,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:ghast"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:ghast_tear": {
     "id": 992,
@@ -4572,11 +4476,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:glow_squid"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:glowstone": {
     "id": 331,
@@ -4612,11 +4512,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:goat"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:gold_block": {
     "id": 89,
@@ -5118,11 +5014,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:guardian"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:gunpowder": {
     "id": 849,
@@ -5194,11 +5086,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:hoglin"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:honey_block": {
     "id": 664,
@@ -5288,11 +5176,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:horse"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:host_armor_trim_smithing_template": {
     "id": 1273,
@@ -5319,11 +5203,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:husk"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:ice": {
     "id": 305,
@@ -5483,11 +5363,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:iron_golem"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:iron_helmet": {
     "id": 861,
@@ -6437,11 +6313,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:llama"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:lodestone": {
     "id": 1214,
@@ -6607,11 +6479,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:magma_cube"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:mangrove_boat": {
     "id": 787,
@@ -6863,11 +6731,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:mooshroom"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:moss_block": {
     "id": 246,
@@ -7029,11 +6893,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:mule"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:mushroom_stem": {
     "id": 353,
@@ -7698,11 +7558,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:ocelot"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:ochre_froglight": {
     "id": 1251,
@@ -7967,11 +7823,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:panda"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:paper": {
     "id": 921,
@@ -7989,11 +7841,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:parrot"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:pearlescent_froglight": {
     "id": 1253,
@@ -8038,11 +7886,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:phantom"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:pig_spawn_egg": {
     "id": 1044,
@@ -8051,11 +7895,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:pig"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:piglin_banner_pattern": {
     "id": 1190,
@@ -8073,11 +7913,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:piglin_brute"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:piglin_head": {
     "id": 1102,
@@ -8095,11 +7931,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:piglin"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:pillager_spawn_egg": {
     "id": 1047,
@@ -8108,11 +7940,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:pillager"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:pink_banner": {
     "id": 1132,
@@ -8332,11 +8160,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:polar_bear"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:polished_andesite": {
     "id": 7,
@@ -8772,11 +8596,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:pufferfish"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:pumpkin": {
     "id": 321,
@@ -9050,11 +8870,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:rabbit"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:rabbit_stew": {
     "id": 1113,
@@ -9090,11 +8906,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:ravager"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:raw_copper": {
     "id": 808,
@@ -9543,11 +9355,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:salmon"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:sand": {
     "id": 57,
@@ -9727,11 +9535,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:sheep"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:shelter_pottery_sherd": {
     "id": 1291,
@@ -9794,11 +9598,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:shulker"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:silence_armor_trim_smithing_template": {
     "id": 1271,
@@ -9816,11 +9616,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:silverfish"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:skeleton_horse_spawn_egg": {
     "id": 1057,
@@ -9829,11 +9625,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:skeleton_horse"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:skeleton_skull": {
     "id": 1096,
@@ -9851,11 +9643,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:skeleton"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:skull_banner_pattern": {
     "id": 1187,
@@ -9900,11 +9688,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:slime"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:small_amethyst_bud": {
     "id": 1246,
@@ -10066,11 +9850,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:sniffer"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:snort_pottery_sherd": {
     "id": 1293,
@@ -10115,11 +9895,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:snow_golem"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:snowball": {
     "id": 909,
@@ -10209,11 +9985,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:spider"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:spire_armor_trim_smithing_template": {
     "id": 1268,
@@ -10420,11 +10192,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:squid"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:stick": {
     "id": 844,
@@ -10606,11 +10374,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:stray"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:strider_spawn_egg": {
     "id": 1064,
@@ -10619,11 +10383,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:strider"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:string": {
     "id": 847,
@@ -10924,11 +10684,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:tadpole"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:tall_grass": {
     "id": 468,
@@ -11045,11 +10801,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:trader_llama"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:trapped_chest": {
     "id": 677,
@@ -11125,11 +10877,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:tropical_fish"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:tube_coral": {
     "id": 598,
@@ -11261,11 +11009,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:turtle"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:twisting_vines": {
     "id": 241,
@@ -11301,11 +11045,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:vex"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:villager_spawn_egg": {
     "id": 1070,
@@ -11314,11 +11054,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:villager"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:vindicator_spawn_egg": {
     "id": 1071,
@@ -11327,11 +11063,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:vindicator"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:vine": {
     "id": 358,
@@ -11349,11 +11081,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:wandering_trader"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:ward_armor_trim_smithing_template": {
     "id": 1262,
@@ -11371,11 +11099,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:warden"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:warped_button": {
     "id": 693,
@@ -12148,11 +11872,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:witch"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:wither_rose": {
     "id": 229,
@@ -12179,11 +11899,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:wither_skeleton"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:wither_spawn_egg": {
     "id": 1075,
@@ -12192,11 +11908,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:wither"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:wolf_spawn_egg": {
     "id": 1077,
@@ -12205,11 +11917,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:wolf"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:wooden_axe": {
     "id": 817,
@@ -12422,11 +12130,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:zoglin"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:zombie_head": {
     "id": 1099,
@@ -12444,11 +12148,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:zombie_horse"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:zombie_spawn_egg": {
     "id": 1079,
@@ -12457,11 +12157,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:zombie"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:zombie_villager_spawn_egg": {
     "id": 1081,
@@ -12470,11 +12166,7 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:zombie_villager"
-      }
-    }
+    "specificItemData": {}
   },
   "minecraft:zombified_piglin_spawn_egg": {
     "id": 1082,
@@ -12483,10 +12175,6 @@
     "blockId": "minecraft:air",
     "eatingSound": "minecraft:entity.generic.eat",
     "drinkingSound": "minecraft:entity.generic.drink",
-    "specificItemData": {
-      "spawnEggProperties": {
-        "entityType": "minecraft:zombified_piglin"
-      }
-    }
+    "specificItemData": {}
   }
 }
