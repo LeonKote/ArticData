@@ -1,0 +1,182 @@
+{
+  "minecraft:block_activate": {
+    "id": 0
+  },
+  "minecraft:block_attach": {
+    "id": 1
+  },
+  "minecraft:block_change": {
+    "id": 2
+  },
+  "minecraft:block_close": {
+    "id": 3
+  },
+  "minecraft:block_deactivate": {
+    "id": 4
+  },
+  "minecraft:block_destroy": {
+    "id": 5
+  },
+  "minecraft:block_detach": {
+    "id": 6
+  },
+  "minecraft:block_open": {
+    "id": 7
+  },
+  "minecraft:block_place": {
+    "id": 8
+  },
+  "minecraft:container_close": {
+    "id": 9
+  },
+  "minecraft:container_open": {
+    "id": 10
+  },
+  "minecraft:drink": {
+    "id": 11
+  },
+  "minecraft:eat": {
+    "id": 12
+  },
+  "minecraft:elytra_glide": {
+    "id": 13
+  },
+  "minecraft:entity_action": {
+    "id": 20
+  },
+  "minecraft:entity_damage": {
+    "id": 14
+  },
+  "minecraft:entity_die": {
+    "id": 15
+  },
+  "minecraft:entity_dismount": {
+    "id": 16
+  },
+  "minecraft:entity_interact": {
+    "id": 17
+  },
+  "minecraft:entity_mount": {
+    "id": 18
+  },
+  "minecraft:entity_place": {
+    "id": 19
+  },
+  "minecraft:equip": {
+    "id": 21
+  },
+  "minecraft:explode": {
+    "id": 22
+  },
+  "minecraft:flap": {
+    "id": 23
+  },
+  "minecraft:fluid_pickup": {
+    "id": 24
+  },
+  "minecraft:fluid_place": {
+    "id": 25
+  },
+  "minecraft:hit_ground": {
+    "id": 26
+  },
+  "minecraft:instrument_play": {
+    "id": 27
+  },
+  "minecraft:item_interact_finish": {
+    "id": 28
+  },
+  "minecraft:item_interact_start": {
+    "id": 29
+  },
+  "minecraft:jukebox_play": {
+    "id": 30
+  },
+  "minecraft:jukebox_stop_play": {
+    "id": 31
+  },
+  "minecraft:lightning_strike": {
+    "id": 32
+  },
+  "minecraft:note_block_play": {
+    "id": 33
+  },
+  "minecraft:prime_fuse": {
+    "id": 34
+  },
+  "minecraft:projectile_land": {
+    "id": 35
+  },
+  "minecraft:projectile_shoot": {
+    "id": 36
+  },
+  "minecraft:resonate_1": {
+    "id": 45
+  },
+  "minecraft:resonate_10": {
+    "id": 54
+  },
+  "minecraft:resonate_11": {
+    "id": 55
+  },
+  "minecraft:resonate_12": {
+    "id": 56
+  },
+  "minecraft:resonate_13": {
+    "id": 57
+  },
+  "minecraft:resonate_14": {
+    "id": 58
+  },
+  "minecraft:resonate_15": {
+    "id": 59
+  },
+  "minecraft:resonate_2": {
+    "id": 46
+  },
+  "minecraft:resonate_3": {
+    "id": 47
+  },
+  "minecraft:resonate_4": {
+    "id": 48
+  },
+  "minecraft:resonate_5": {
+    "id": 49
+  },
+  "minecraft:resonate_6": {
+    "id": 50
+  },
+  "minecraft:resonate_7": {
+    "id": 51
+  },
+  "minecraft:resonate_8": {
+    "id": 52
+  },
+  "minecraft:resonate_9": {
+    "id": 53
+  },
+  "minecraft:sculk_sensor_tendrils_clicking": {
+    "id": 37
+  },
+  "minecraft:shear": {
+    "id": 38
+  },
+  "minecraft:shriek": {
+    "id": 39
+  },
+  "minecraft:splash": {
+    "id": 40
+  },
+  "minecraft:step": {
+    "id": 41
+  },
+  "minecraft:swim": {
+    "id": 42
+  },
+  "minecraft:teleport": {
+    "id": 43
+  },
+  "minecraft:unequip": {
+    "id": 44
+  }
+}

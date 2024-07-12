@@ -1,0 +1,1302 @@
+{
+  "minecraft:allay": {
+    "id": 0,
+    "mojangName": "ALLAY",
+    "translationKey": "entity.minecraft.allay",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 0.6,
+    "width": 0.35,
+    "clientTrackingRange": 8
+  },
+  "minecraft:area_effect_cloud": {
+    "id": 1,
+    "mojangName": "AREA_EFFECT_CLOUD",
+    "translationKey": "entity.minecraft.area_effect_cloud",
+    "packetType": "BASE",
+    "fireImmune": true,
+    "height": 0.5,
+    "width": 6.0,
+    "clientTrackingRange": 10
+  },
+  "minecraft:armadillo": {
+    "id": 2,
+    "mojangName": "ARMADILLO",
+    "translationKey": "entity.minecraft.armadillo",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 0.65,
+    "width": 0.7,
+    "clientTrackingRange": 10
+  },
+  "minecraft:armor_stand": {
+    "id": 3,
+    "mojangName": "ARMOR_STAND",
+    "translationKey": "entity.minecraft.armor_stand",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 1.975,
+    "width": 0.5,
+    "clientTrackingRange": 10
+  },
+  "minecraft:arrow": {
+    "id": 4,
+    "mojangName": "ARROW",
+    "translationKey": "entity.minecraft.arrow",
+    "packetType": "BASE",
+    "fireImmune": false,
+    "height": 0.5,
+    "width": 0.5,
+    "clientTrackingRange": 4
+  },
+  "minecraft:axolotl": {
+    "id": 5,
+    "mojangName": "AXOLOTL",
+    "translationKey": "entity.minecraft.axolotl",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 0.42,
+    "width": 0.75,
+    "clientTrackingRange": 10
+  },
+  "minecraft:bat": {
+    "id": 6,
+    "mojangName": "BAT",
+    "translationKey": "entity.minecraft.bat",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 0.9,
+    "width": 0.5,
+    "clientTrackingRange": 5
+  },
+  "minecraft:bee": {
+    "id": 7,
+    "mojangName": "BEE",
+    "translationKey": "entity.minecraft.bee",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 0.6,
+    "width": 0.7,
+    "clientTrackingRange": 8
+  },
+  "minecraft:blaze": {
+    "id": 8,
+    "mojangName": "BLAZE",
+    "translationKey": "entity.minecraft.blaze",
+    "packetType": "LIVING",
+    "fireImmune": true,
+    "height": 1.8,
+    "width": 0.6,
+    "clientTrackingRange": 8
+  },
+  "minecraft:block_display": {
+    "id": 9,
+    "mojangName": "BLOCK_DISPLAY",
+    "translationKey": "entity.minecraft.block_display",
+    "packetType": "BASE",
+    "fireImmune": false,
+    "height": 0.0,
+    "width": 0.0,
+    "clientTrackingRange": 10
+  },
+  "minecraft:boat": {
+    "id": 10,
+    "mojangName": "BOAT",
+    "translationKey": "entity.minecraft.boat",
+    "packetType": "BASE",
+    "fireImmune": false,
+    "height": 0.5625,
+    "width": 1.375,
+    "clientTrackingRange": 10
+  },
+  "minecraft:bogged": {
+    "id": 11,
+    "mojangName": "BOGGED",
+    "translationKey": "entity.minecraft.bogged",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 1.99,
+    "width": 0.6,
+    "clientTrackingRange": 8
+  },
+  "minecraft:breeze": {
+    "id": 12,
+    "mojangName": "BREEZE",
+    "translationKey": "entity.minecraft.breeze",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 1.77,
+    "width": 0.6,
+    "clientTrackingRange": 10
+  },
+  "minecraft:breeze_wind_charge": {
+    "id": 13,
+    "mojangName": "BREEZE_WIND_CHARGE",
+    "translationKey": "entity.minecraft.breeze_wind_charge",
+    "packetType": "BASE",
+    "fireImmune": false,
+    "height": 0.3125,
+    "width": 0.3125,
+    "clientTrackingRange": 4
+  },
+  "minecraft:camel": {
+    "id": 14,
+    "mojangName": "CAMEL",
+    "translationKey": "entity.minecraft.camel",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 2.375,
+    "width": 1.7,
+    "clientTrackingRange": 10
+  },
+  "minecraft:cat": {
+    "id": 15,
+    "mojangName": "CAT",
+    "translationKey": "entity.minecraft.cat",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 0.7,
+    "width": 0.6,
+    "clientTrackingRange": 8
+  },
+  "minecraft:cave_spider": {
+    "id": 16,
+    "mojangName": "CAVE_SPIDER",
+    "translationKey": "entity.minecraft.cave_spider",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 0.5,
+    "width": 0.7,
+    "clientTrackingRange": 8
+  },
+  "minecraft:chest_boat": {
+    "id": 17,
+    "mojangName": "CHEST_BOAT",
+    "translationKey": "entity.minecraft.chest_boat",
+    "packetType": "BASE",
+    "fireImmune": false,
+    "height": 0.5625,
+    "width": 1.375,
+    "clientTrackingRange": 10
+  },
+  "minecraft:chest_minecart": {
+    "id": 18,
+    "mojangName": "CHEST_MINECART",
+    "translationKey": "entity.minecraft.chest_minecart",
+    "packetType": "BASE",
+    "fireImmune": false,
+    "height": 0.7,
+    "width": 0.98,
+    "clientTrackingRange": 8
+  },
+  "minecraft:chicken": {
+    "id": 19,
+    "mojangName": "CHICKEN",
+    "translationKey": "entity.minecraft.chicken",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 0.7,
+    "width": 0.4,
+    "clientTrackingRange": 10
+  },
+  "minecraft:cod": {
+    "id": 20,
+    "mojangName": "COD",
+    "translationKey": "entity.minecraft.cod",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 0.3,
+    "width": 0.5,
+    "clientTrackingRange": 4
+  },
+  "minecraft:command_block_minecart": {
+    "id": 21,
+    "mojangName": "COMMAND_BLOCK_MINECART",
+    "translationKey": "entity.minecraft.command_block_minecart",
+    "packetType": "BASE",
+    "fireImmune": false,
+    "height": 0.7,
+    "width": 0.98,
+    "clientTrackingRange": 8
+  },
+  "minecraft:cow": {
+    "id": 22,
+    "mojangName": "COW",
+    "translationKey": "entity.minecraft.cow",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 1.4,
+    "width": 0.9,
+    "clientTrackingRange": 10
+  },
+  "minecraft:creeper": {
+    "id": 23,
+    "mojangName": "CREEPER",
+    "translationKey": "entity.minecraft.creeper",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 1.7,
+    "width": 0.6,
+    "clientTrackingRange": 8
+  },
+  "minecraft:dolphin": {
+    "id": 24,
+    "mojangName": "DOLPHIN",
+    "translationKey": "entity.minecraft.dolphin",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 0.6,
+    "width": 0.9,
+    "clientTrackingRange": 5
+  },
+  "minecraft:donkey": {
+    "id": 25,
+    "mojangName": "DONKEY",
+    "translationKey": "entity.minecraft.donkey",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 1.5,
+    "width": 1.3964844,
+    "clientTrackingRange": 10
+  },
+  "minecraft:dragon_fireball": {
+    "id": 26,
+    "mojangName": "DRAGON_FIREBALL",
+    "translationKey": "entity.minecraft.dragon_fireball",
+    "packetType": "BASE",
+    "fireImmune": false,
+    "height": 1.0,
+    "width": 1.0,
+    "clientTrackingRange": 4
+  },
+  "minecraft:drowned": {
+    "id": 27,
+    "mojangName": "DROWNED",
+    "translationKey": "entity.minecraft.drowned",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 1.95,
+    "width": 0.6,
+    "clientTrackingRange": 8
+  },
+  "minecraft:egg": {
+    "id": 28,
+    "mojangName": "EGG",
+    "translationKey": "entity.minecraft.egg",
+    "packetType": "BASE",
+    "fireImmune": false,
+    "height": 0.25,
+    "width": 0.25,
+    "clientTrackingRange": 4
+  },
+  "minecraft:elder_guardian": {
+    "id": 29,
+    "mojangName": "ELDER_GUARDIAN",
+    "translationKey": "entity.minecraft.elder_guardian",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 1.9975,
+    "width": 1.9975,
+    "clientTrackingRange": 10
+  },
+  "minecraft:end_crystal": {
+    "id": 30,
+    "mojangName": "END_CRYSTAL",
+    "translationKey": "entity.minecraft.end_crystal",
+    "packetType": "BASE",
+    "fireImmune": true,
+    "height": 2.0,
+    "width": 2.0,
+    "clientTrackingRange": 16
+  },
+  "minecraft:ender_dragon": {
+    "id": 31,
+    "mojangName": "ENDER_DRAGON",
+    "translationKey": "entity.minecraft.ender_dragon",
+    "packetType": "LIVING",
+    "fireImmune": true,
+    "height": 8.0,
+    "width": 16.0,
+    "clientTrackingRange": 10
+  },
+  "minecraft:ender_pearl": {
+    "id": 32,
+    "mojangName": "ENDER_PEARL",
+    "translationKey": "entity.minecraft.ender_pearl",
+    "packetType": "BASE",
+    "fireImmune": false,
+    "height": 0.25,
+    "width": 0.25,
+    "clientTrackingRange": 4
+  },
+  "minecraft:enderman": {
+    "id": 33,
+    "mojangName": "ENDERMAN",
+    "translationKey": "entity.minecraft.enderman",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 2.9,
+    "width": 0.6,
+    "clientTrackingRange": 8
+  },
+  "minecraft:endermite": {
+    "id": 34,
+    "mojangName": "ENDERMITE",
+    "translationKey": "entity.minecraft.endermite",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 0.3,
+    "width": 0.4,
+    "clientTrackingRange": 8
+  },
+  "minecraft:evoker": {
+    "id": 35,
+    "mojangName": "EVOKER",
+    "translationKey": "entity.minecraft.evoker",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 1.95,
+    "width": 0.6,
+    "clientTrackingRange": 8
+  },
+  "minecraft:evoker_fangs": {
+    "id": 36,
+    "mojangName": "EVOKER_FANGS",
+    "translationKey": "entity.minecraft.evoker_fangs",
+    "packetType": "BASE",
+    "fireImmune": false,
+    "height": 0.8,
+    "width": 0.5,
+    "clientTrackingRange": 6
+  },
+  "minecraft:experience_bottle": {
+    "id": 37,
+    "mojangName": "EXPERIENCE_BOTTLE",
+    "translationKey": "entity.minecraft.experience_bottle",
+    "packetType": "BASE",
+    "fireImmune": false,
+    "height": 0.25,
+    "width": 0.25,
+    "clientTrackingRange": 4
+  },
+  "minecraft:experience_orb": {
+    "id": 38,
+    "mojangName": "EXPERIENCE_ORB",
+    "translationKey": "entity.minecraft.experience_orb",
+    "packetType": "EXPERIENCE_ORB",
+    "fireImmune": false,
+    "height": 0.5,
+    "width": 0.5,
+    "clientTrackingRange": 6
+  },
+  "minecraft:eye_of_ender": {
+    "id": 39,
+    "mojangName": "EYE_OF_ENDER",
+    "translationKey": "entity.minecraft.eye_of_ender",
+    "packetType": "BASE",
+    "fireImmune": false,
+    "height": 0.25,
+    "width": 0.25,
+    "clientTrackingRange": 4
+  },
+  "minecraft:falling_block": {
+    "id": 40,
+    "mojangName": "FALLING_BLOCK",
+    "translationKey": "entity.minecraft.falling_block",
+    "packetType": "BASE",
+    "fireImmune": false,
+    "height": 0.98,
+    "width": 0.98,
+    "clientTrackingRange": 10
+  },
+  "minecraft:fireball": {
+    "id": 62,
+    "mojangName": "FIREBALL",
+    "translationKey": "entity.minecraft.fireball",
+    "packetType": "BASE",
+    "fireImmune": false,
+    "height": 1.0,
+    "width": 1.0,
+    "clientTrackingRange": 4
+  },
+  "minecraft:firework_rocket": {
+    "id": 41,
+    "mojangName": "FIREWORK_ROCKET",
+    "translationKey": "entity.minecraft.firework_rocket",
+    "packetType": "BASE",
+    "fireImmune": false,
+    "height": 0.25,
+    "width": 0.25,
+    "clientTrackingRange": 4
+  },
+  "minecraft:fishing_bobber": {
+    "id": 129,
+    "mojangName": "FISHING_BOBBER",
+    "translationKey": "entity.minecraft.fishing_bobber",
+    "packetType": "BASE",
+    "fireImmune": false,
+    "height": 0.25,
+    "width": 0.25,
+    "clientTrackingRange": 4
+  },
+  "minecraft:fox": {
+    "id": 42,
+    "mojangName": "FOX",
+    "translationKey": "entity.minecraft.fox",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 0.7,
+    "width": 0.6,
+    "clientTrackingRange": 8
+  },
+  "minecraft:frog": {
+    "id": 43,
+    "mojangName": "FROG",
+    "translationKey": "entity.minecraft.frog",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 0.5,
+    "width": 0.5,
+    "clientTrackingRange": 10
+  },
+  "minecraft:furnace_minecart": {
+    "id": 44,
+    "mojangName": "FURNACE_MINECART",
+    "translationKey": "entity.minecraft.furnace_minecart",
+    "packetType": "BASE",
+    "fireImmune": false,
+    "height": 0.7,
+    "width": 0.98,
+    "clientTrackingRange": 8
+  },
+  "minecraft:ghast": {
+    "id": 45,
+    "mojangName": "GHAST",
+    "translationKey": "entity.minecraft.ghast",
+    "packetType": "LIVING",
+    "fireImmune": true,
+    "height": 4.0,
+    "width": 4.0,
+    "clientTrackingRange": 10
+  },
+  "minecraft:giant": {
+    "id": 46,
+    "mojangName": "GIANT",
+    "translationKey": "entity.minecraft.giant",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 12.0,
+    "width": 3.6,
+    "clientTrackingRange": 10
+  },
+  "minecraft:glow_item_frame": {
+    "id": 47,
+    "mojangName": "GLOW_ITEM_FRAME",
+    "translationKey": "entity.minecraft.glow_item_frame",
+    "packetType": "BASE",
+    "fireImmune": false,
+    "height": 0.5,
+    "width": 0.5,
+    "clientTrackingRange": 10
+  },
+  "minecraft:glow_squid": {
+    "id": 48,
+    "mojangName": "GLOW_SQUID",
+    "translationKey": "entity.minecraft.glow_squid",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 0.8,
+    "width": 0.8,
+    "clientTrackingRange": 10
+  },
+  "minecraft:goat": {
+    "id": 49,
+    "mojangName": "GOAT",
+    "translationKey": "entity.minecraft.goat",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 1.3,
+    "width": 0.9,
+    "clientTrackingRange": 10
+  },
+  "minecraft:guardian": {
+    "id": 50,
+    "mojangName": "GUARDIAN",
+    "translationKey": "entity.minecraft.guardian",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 0.85,
+    "width": 0.85,
+    "clientTrackingRange": 8
+  },
+  "minecraft:hoglin": {
+    "id": 51,
+    "mojangName": "HOGLIN",
+    "translationKey": "entity.minecraft.hoglin",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 1.4,
+    "width": 1.3964844,
+    "clientTrackingRange": 8
+  },
+  "minecraft:hopper_minecart": {
+    "id": 52,
+    "mojangName": "HOPPER_MINECART",
+    "translationKey": "entity.minecraft.hopper_minecart",
+    "packetType": "BASE",
+    "fireImmune": false,
+    "height": 0.7,
+    "width": 0.98,
+    "clientTrackingRange": 8
+  },
+  "minecraft:horse": {
+    "id": 53,
+    "mojangName": "HORSE",
+    "translationKey": "entity.minecraft.horse",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 1.6,
+    "width": 1.3964844,
+    "clientTrackingRange": 10
+  },
+  "minecraft:husk": {
+    "id": 54,
+    "mojangName": "HUSK",
+    "translationKey": "entity.minecraft.husk",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 1.95,
+    "width": 0.6,
+    "clientTrackingRange": 8
+  },
+  "minecraft:illusioner": {
+    "id": 55,
+    "mojangName": "ILLUSIONER",
+    "translationKey": "entity.minecraft.illusioner",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 1.95,
+    "width": 0.6,
+    "clientTrackingRange": 8
+  },
+  "minecraft:interaction": {
+    "id": 56,
+    "mojangName": "INTERACTION",
+    "translationKey": "entity.minecraft.interaction",
+    "packetType": "BASE",
+    "fireImmune": false,
+    "height": 0.0,
+    "width": 0.0,
+    "clientTrackingRange": 10
+  },
+  "minecraft:iron_golem": {
+    "id": 57,
+    "mojangName": "IRON_GOLEM",
+    "translationKey": "entity.minecraft.iron_golem",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 2.7,
+    "width": 1.4,
+    "clientTrackingRange": 10
+  },
+  "minecraft:item": {
+    "id": 58,
+    "mojangName": "ITEM",
+    "translationKey": "entity.minecraft.item",
+    "packetType": "BASE",
+    "fireImmune": false,
+    "height": 0.25,
+    "width": 0.25,
+    "clientTrackingRange": 6
+  },
+  "minecraft:item_display": {
+    "id": 59,
+    "mojangName": "ITEM_DISPLAY",
+    "translationKey": "entity.minecraft.item_display",
+    "packetType": "BASE",
+    "fireImmune": false,
+    "height": 0.0,
+    "width": 0.0,
+    "clientTrackingRange": 10
+  },
+  "minecraft:item_frame": {
+    "id": 60,
+    "mojangName": "ITEM_FRAME",
+    "translationKey": "entity.minecraft.item_frame",
+    "packetType": "BASE",
+    "fireImmune": false,
+    "height": 0.5,
+    "width": 0.5,
+    "clientTrackingRange": 10
+  },
+  "minecraft:leash_knot": {
+    "id": 63,
+    "mojangName": "LEASH_KNOT",
+    "translationKey": "entity.minecraft.leash_knot",
+    "packetType": "BASE",
+    "fireImmune": false,
+    "height": 0.5,
+    "width": 0.375,
+    "clientTrackingRange": 10
+  },
+  "minecraft:lightning_bolt": {
+    "id": 64,
+    "mojangName": "LIGHTNING_BOLT",
+    "translationKey": "entity.minecraft.lightning_bolt",
+    "packetType": "BASE",
+    "fireImmune": false,
+    "height": 0.0,
+    "width": 0.0,
+    "clientTrackingRange": 16
+  },
+  "minecraft:llama": {
+    "id": 65,
+    "mojangName": "LLAMA",
+    "translationKey": "entity.minecraft.llama",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 1.87,
+    "width": 0.9,
+    "clientTrackingRange": 10
+  },
+  "minecraft:llama_spit": {
+    "id": 66,
+    "mojangName": "LLAMA_SPIT",
+    "translationKey": "entity.minecraft.llama_spit",
+    "packetType": "BASE",
+    "fireImmune": false,
+    "height": 0.25,
+    "width": 0.25,
+    "clientTrackingRange": 4
+  },
+  "minecraft:magma_cube": {
+    "id": 67,
+    "mojangName": "MAGMA_CUBE",
+    "translationKey": "entity.minecraft.magma_cube",
+    "packetType": "LIVING",
+    "fireImmune": true,
+    "height": 0.52,
+    "width": 0.52,
+    "clientTrackingRange": 8
+  },
+  "minecraft:marker": {
+    "id": 68,
+    "mojangName": "MARKER",
+    "translationKey": "entity.minecraft.marker",
+    "packetType": "BASE",
+    "fireImmune": false,
+    "height": 0.0,
+    "width": 0.0,
+    "clientTrackingRange": 0
+  },
+  "minecraft:minecart": {
+    "id": 69,
+    "mojangName": "MINECART",
+    "translationKey": "entity.minecraft.minecart",
+    "packetType": "BASE",
+    "fireImmune": false,
+    "height": 0.7,
+    "width": 0.98,
+    "clientTrackingRange": 8
+  },
+  "minecraft:mooshroom": {
+    "id": 70,
+    "mojangName": "MOOSHROOM",
+    "translationKey": "entity.minecraft.mooshroom",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 1.4,
+    "width": 0.9,
+    "clientTrackingRange": 10
+  },
+  "minecraft:mule": {
+    "id": 71,
+    "mojangName": "MULE",
+    "translationKey": "entity.minecraft.mule",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 1.6,
+    "width": 1.3964844,
+    "clientTrackingRange": 8
+  },
+  "minecraft:ocelot": {
+    "id": 72,
+    "mojangName": "OCELOT",
+    "translationKey": "entity.minecraft.ocelot",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 0.7,
+    "width": 0.6,
+    "clientTrackingRange": 10
+  },
+  "minecraft:ominous_item_spawner": {
+    "id": 61,
+    "mojangName": "OMINOUS_ITEM_SPAWNER",
+    "translationKey": "entity.minecraft.ominous_item_spawner",
+    "packetType": "BASE",
+    "fireImmune": false,
+    "height": 0.25,
+    "width": 0.25,
+    "clientTrackingRange": 8
+  },
+  "minecraft:painting": {
+    "id": 73,
+    "mojangName": "PAINTING",
+    "translationKey": "entity.minecraft.painting",
+    "packetType": "PAINTING",
+    "fireImmune": false,
+    "height": 0.5,
+    "width": 0.5,
+    "clientTrackingRange": 10
+  },
+  "minecraft:panda": {
+    "id": 74,
+    "mojangName": "PANDA",
+    "translationKey": "entity.minecraft.panda",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 1.25,
+    "width": 1.3,
+    "clientTrackingRange": 10
+  },
+  "minecraft:parrot": {
+    "id": 75,
+    "mojangName": "PARROT",
+    "translationKey": "entity.minecraft.parrot",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 0.9,
+    "width": 0.5,
+    "clientTrackingRange": 8
+  },
+  "minecraft:phantom": {
+    "id": 76,
+    "mojangName": "PHANTOM",
+    "translationKey": "entity.minecraft.phantom",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 0.5,
+    "width": 0.9,
+    "clientTrackingRange": 8
+  },
+  "minecraft:pig": {
+    "id": 77,
+    "mojangName": "PIG",
+    "translationKey": "entity.minecraft.pig",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 0.9,
+    "width": 0.9,
+    "clientTrackingRange": 10
+  },
+  "minecraft:piglin": {
+    "id": 78,
+    "mojangName": "PIGLIN",
+    "translationKey": "entity.minecraft.piglin",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 1.95,
+    "width": 0.6,
+    "clientTrackingRange": 8
+  },
+  "minecraft:piglin_brute": {
+    "id": 79,
+    "mojangName": "PIGLIN_BRUTE",
+    "translationKey": "entity.minecraft.piglin_brute",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 1.95,
+    "width": 0.6,
+    "clientTrackingRange": 8
+  },
+  "minecraft:pillager": {
+    "id": 80,
+    "mojangName": "PILLAGER",
+    "translationKey": "entity.minecraft.pillager",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 1.95,
+    "width": 0.6,
+    "clientTrackingRange": 8
+  },
+  "minecraft:player": {
+    "id": 128,
+    "mojangName": "PLAYER",
+    "translationKey": "entity.minecraft.player",
+    "packetType": "PLAYER",
+    "fireImmune": false,
+    "height": 1.8,
+    "width": 0.6,
+    "clientTrackingRange": 32
+  },
+  "minecraft:polar_bear": {
+    "id": 81,
+    "mojangName": "POLAR_BEAR",
+    "translationKey": "entity.minecraft.polar_bear",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 1.4,
+    "width": 1.4,
+    "clientTrackingRange": 10
+  },
+  "minecraft:potion": {
+    "id": 82,
+    "mojangName": "POTION",
+    "translationKey": "entity.minecraft.potion",
+    "packetType": "BASE",
+    "fireImmune": false,
+    "height": 0.25,
+    "width": 0.25,
+    "clientTrackingRange": 4
+  },
+  "minecraft:pufferfish": {
+    "id": 83,
+    "mojangName": "PUFFERFISH",
+    "translationKey": "entity.minecraft.pufferfish",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 0.7,
+    "width": 0.7,
+    "clientTrackingRange": 4
+  },
+  "minecraft:rabbit": {
+    "id": 84,
+    "mojangName": "RABBIT",
+    "translationKey": "entity.minecraft.rabbit",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 0.5,
+    "width": 0.4,
+    "clientTrackingRange": 8
+  },
+  "minecraft:ravager": {
+    "id": 85,
+    "mojangName": "RAVAGER",
+    "translationKey": "entity.minecraft.ravager",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 2.2,
+    "width": 1.95,
+    "clientTrackingRange": 10
+  },
+  "minecraft:salmon": {
+    "id": 86,
+    "mojangName": "SALMON",
+    "translationKey": "entity.minecraft.salmon",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 0.4,
+    "width": 0.7,
+    "clientTrackingRange": 4
+  },
+  "minecraft:sheep": {
+    "id": 87,
+    "mojangName": "SHEEP",
+    "translationKey": "entity.minecraft.sheep",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 1.3,
+    "width": 0.9,
+    "clientTrackingRange": 10
+  },
+  "minecraft:shulker": {
+    "id": 88,
+    "mojangName": "SHULKER",
+    "translationKey": "entity.minecraft.shulker",
+    "packetType": "LIVING",
+    "fireImmune": true,
+    "height": 1.0,
+    "width": 1.0,
+    "clientTrackingRange": 10
+  },
+  "minecraft:shulker_bullet": {
+    "id": 89,
+    "mojangName": "SHULKER_BULLET",
+    "translationKey": "entity.minecraft.shulker_bullet",
+    "packetType": "BASE",
+    "fireImmune": false,
+    "height": 0.3125,
+    "width": 0.3125,
+    "clientTrackingRange": 8
+  },
+  "minecraft:silverfish": {
+    "id": 90,
+    "mojangName": "SILVERFISH",
+    "translationKey": "entity.minecraft.silverfish",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 0.3,
+    "width": 0.4,
+    "clientTrackingRange": 8
+  },
+  "minecraft:skeleton": {
+    "id": 91,
+    "mojangName": "SKELETON",
+    "translationKey": "entity.minecraft.skeleton",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 1.99,
+    "width": 0.6,
+    "clientTrackingRange": 8
+  },
+  "minecraft:skeleton_horse": {
+    "id": 92,
+    "mojangName": "SKELETON_HORSE",
+    "translationKey": "entity.minecraft.skeleton_horse",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 1.6,
+    "width": 1.3964844,
+    "clientTrackingRange": 10
+  },
+  "minecraft:slime": {
+    "id": 93,
+    "mojangName": "SLIME",
+    "translationKey": "entity.minecraft.slime",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 0.52,
+    "width": 0.52,
+    "clientTrackingRange": 10
+  },
+  "minecraft:small_fireball": {
+    "id": 94,
+    "mojangName": "SMALL_FIREBALL",
+    "translationKey": "entity.minecraft.small_fireball",
+    "packetType": "BASE",
+    "fireImmune": false,
+    "height": 0.3125,
+    "width": 0.3125,
+    "clientTrackingRange": 4
+  },
+  "minecraft:sniffer": {
+    "id": 95,
+    "mojangName": "SNIFFER",
+    "translationKey": "entity.minecraft.sniffer",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 1.75,
+    "width": 1.9,
+    "clientTrackingRange": 10
+  },
+  "minecraft:snow_golem": {
+    "id": 96,
+    "mojangName": "SNOW_GOLEM",
+    "translationKey": "entity.minecraft.snow_golem",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 1.9,
+    "width": 0.7,
+    "clientTrackingRange": 8
+  },
+  "minecraft:snowball": {
+    "id": 97,
+    "mojangName": "SNOWBALL",
+    "translationKey": "entity.minecraft.snowball",
+    "packetType": "BASE",
+    "fireImmune": false,
+    "height": 0.25,
+    "width": 0.25,
+    "clientTrackingRange": 4
+  },
+  "minecraft:spawner_minecart": {
+    "id": 98,
+    "mojangName": "SPAWNER_MINECART",
+    "translationKey": "entity.minecraft.spawner_minecart",
+    "packetType": "BASE",
+    "fireImmune": false,
+    "height": 0.7,
+    "width": 0.98,
+    "clientTrackingRange": 8
+  },
+  "minecraft:spectral_arrow": {
+    "id": 99,
+    "mojangName": "SPECTRAL_ARROW",
+    "translationKey": "entity.minecraft.spectral_arrow",
+    "packetType": "BASE",
+    "fireImmune": false,
+    "height": 0.5,
+    "width": 0.5,
+    "clientTrackingRange": 4
+  },
+  "minecraft:spider": {
+    "id": 100,
+    "mojangName": "SPIDER",
+    "translationKey": "entity.minecraft.spider",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 0.9,
+    "width": 1.4,
+    "clientTrackingRange": 8
+  },
+  "minecraft:squid": {
+    "id": 101,
+    "mojangName": "SQUID",
+    "translationKey": "entity.minecraft.squid",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 0.8,
+    "width": 0.8,
+    "clientTrackingRange": 8
+  },
+  "minecraft:stray": {
+    "id": 102,
+    "mojangName": "STRAY",
+    "translationKey": "entity.minecraft.stray",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 1.99,
+    "width": 0.6,
+    "clientTrackingRange": 8
+  },
+  "minecraft:strider": {
+    "id": 103,
+    "mojangName": "STRIDER",
+    "translationKey": "entity.minecraft.strider",
+    "packetType": "LIVING",
+    "fireImmune": true,
+    "height": 1.7,
+    "width": 0.9,
+    "clientTrackingRange": 10
+  },
+  "minecraft:tadpole": {
+    "id": 104,
+    "mojangName": "TADPOLE",
+    "translationKey": "entity.minecraft.tadpole",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 0.3,
+    "width": 0.4,
+    "clientTrackingRange": 10
+  },
+  "minecraft:text_display": {
+    "id": 105,
+    "mojangName": "TEXT_DISPLAY",
+    "translationKey": "entity.minecraft.text_display",
+    "packetType": "BASE",
+    "fireImmune": false,
+    "height": 0.0,
+    "width": 0.0,
+    "clientTrackingRange": 10
+  },
+  "minecraft:tnt": {
+    "id": 106,
+    "mojangName": "TNT",
+    "translationKey": "entity.minecraft.tnt",
+    "packetType": "BASE",
+    "fireImmune": true,
+    "height": 0.98,
+    "width": 0.98,
+    "clientTrackingRange": 10
+  },
+  "minecraft:tnt_minecart": {
+    "id": 107,
+    "mojangName": "TNT_MINECART",
+    "translationKey": "entity.minecraft.tnt_minecart",
+    "packetType": "BASE",
+    "fireImmune": false,
+    "height": 0.7,
+    "width": 0.98,
+    "clientTrackingRange": 8
+  },
+  "minecraft:trader_llama": {
+    "id": 108,
+    "mojangName": "TRADER_LLAMA",
+    "translationKey": "entity.minecraft.trader_llama",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 1.87,
+    "width": 0.9,
+    "clientTrackingRange": 10
+  },
+  "minecraft:trident": {
+    "id": 109,
+    "mojangName": "TRIDENT",
+    "translationKey": "entity.minecraft.trident",
+    "packetType": "BASE",
+    "fireImmune": false,
+    "height": 0.5,
+    "width": 0.5,
+    "clientTrackingRange": 4
+  },
+  "minecraft:tropical_fish": {
+    "id": 110,
+    "mojangName": "TROPICAL_FISH",
+    "translationKey": "entity.minecraft.tropical_fish",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 0.4,
+    "width": 0.5,
+    "clientTrackingRange": 4
+  },
+  "minecraft:turtle": {
+    "id": 111,
+    "mojangName": "TURTLE",
+    "translationKey": "entity.minecraft.turtle",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 0.4,
+    "width": 1.2,
+    "clientTrackingRange": 10
+  },
+  "minecraft:vex": {
+    "id": 112,
+    "mojangName": "VEX",
+    "translationKey": "entity.minecraft.vex",
+    "packetType": "LIVING",
+    "fireImmune": true,
+    "height": 0.8,
+    "width": 0.4,
+    "clientTrackingRange": 8
+  },
+  "minecraft:villager": {
+    "id": 113,
+    "mojangName": "VILLAGER",
+    "translationKey": "entity.minecraft.villager",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 1.95,
+    "width": 0.6,
+    "clientTrackingRange": 10
+  },
+  "minecraft:vindicator": {
+    "id": 114,
+    "mojangName": "VINDICATOR",
+    "translationKey": "entity.minecraft.vindicator",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 1.95,
+    "width": 0.6,
+    "clientTrackingRange": 8
+  },
+  "minecraft:wandering_trader": {
+    "id": 115,
+    "mojangName": "WANDERING_TRADER",
+    "translationKey": "entity.minecraft.wandering_trader",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 1.95,
+    "width": 0.6,
+    "clientTrackingRange": 10
+  },
+  "minecraft:warden": {
+    "id": 116,
+    "mojangName": "WARDEN",
+    "translationKey": "entity.minecraft.warden",
+    "packetType": "LIVING",
+    "fireImmune": true,
+    "height": 2.9,
+    "width": 0.9,
+    "clientTrackingRange": 16
+  },
+  "minecraft:wind_charge": {
+    "id": 117,
+    "mojangName": "WIND_CHARGE",
+    "translationKey": "entity.minecraft.wind_charge",
+    "packetType": "BASE",
+    "fireImmune": false,
+    "height": 0.3125,
+    "width": 0.3125,
+    "clientTrackingRange": 4
+  },
+  "minecraft:witch": {
+    "id": 118,
+    "mojangName": "WITCH",
+    "translationKey": "entity.minecraft.witch",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 1.95,
+    "width": 0.6,
+    "clientTrackingRange": 8
+  },
+  "minecraft:wither": {
+    "id": 119,
+    "mojangName": "WITHER",
+    "translationKey": "entity.minecraft.wither",
+    "packetType": "LIVING",
+    "fireImmune": true,
+    "height": 3.5,
+    "width": 0.9,
+    "clientTrackingRange": 10
+  },
+  "minecraft:wither_skeleton": {
+    "id": 120,
+    "mojangName": "WITHER_SKELETON",
+    "translationKey": "entity.minecraft.wither_skeleton",
+    "packetType": "LIVING",
+    "fireImmune": true,
+    "height": 2.4,
+    "width": 0.7,
+    "clientTrackingRange": 8
+  },
+  "minecraft:wither_skull": {
+    "id": 121,
+    "mojangName": "WITHER_SKULL",
+    "translationKey": "entity.minecraft.wither_skull",
+    "packetType": "BASE",
+    "fireImmune": false,
+    "height": 0.3125,
+    "width": 0.3125,
+    "clientTrackingRange": 4
+  },
+  "minecraft:wolf": {
+    "id": 122,
+    "mojangName": "WOLF",
+    "translationKey": "entity.minecraft.wolf",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 0.85,
+    "width": 0.6,
+    "clientTrackingRange": 10
+  },
+  "minecraft:zoglin": {
+    "id": 123,
+    "mojangName": "ZOGLIN",
+    "translationKey": "entity.minecraft.zoglin",
+    "packetType": "LIVING",
+    "fireImmune": true,
+    "height": 1.4,
+    "width": 1.3964844,
+    "clientTrackingRange": 8
+  },
+  "minecraft:zombie": {
+    "id": 124,
+    "mojangName": "ZOMBIE",
+    "translationKey": "entity.minecraft.zombie",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 1.95,
+    "width": 0.6,
+    "clientTrackingRange": 8
+  },
+  "minecraft:zombie_horse": {
+    "id": 125,
+    "mojangName": "ZOMBIE_HORSE",
+    "translationKey": "entity.minecraft.zombie_horse",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 1.6,
+    "width": 1.3964844,
+    "clientTrackingRange": 10
+  },
+  "minecraft:zombie_villager": {
+    "id": 126,
+    "mojangName": "ZOMBIE_VILLAGER",
+    "translationKey": "entity.minecraft.zombie_villager",
+    "packetType": "LIVING",
+    "fireImmune": false,
+    "height": 1.95,
+    "width": 0.6,
+    "clientTrackingRange": 8
+  },
+  "minecraft:zombified_piglin": {
+    "id": 127,
+    "mojangName": "ZOMBIFIED_PIGLIN",
+    "translationKey": "entity.minecraft.zombified_piglin",
+    "packetType": "LIVING",
+    "fireImmune": true,
+    "height": 1.95,
+    "width": 0.6,
+    "clientTrackingRange": 8
+  }
+}

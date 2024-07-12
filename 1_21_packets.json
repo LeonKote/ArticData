@@ -1,0 +1,22 @@
+{
+  "CONFIGURATION": {
+    "ordinal": 4,
+    "id": "configuration"
+  },
+  "HANDSHAKING": {
+    "ordinal": 0,
+    "id": "handshake"
+  },
+  "LOGIN": {
+    "ordinal": 3,
+    "id": "login"
+  },
+  "PLAY": {
+    "ordinal": 1,
+    "id": "play"
+  },
+  "STATUS": {
+    "ordinal": 2,
+    "id": "status"
+  }
+}

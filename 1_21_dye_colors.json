@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "mojangName": "white",
+    "mapColor": "SNOW",
+    "fireworkColor": 15790320,
+    "textColor": 16777215,
+    "textureDiffuseColor": -393218
+  },
+  {
+    "id": 1,
+    "mojangName": "orange",
+    "mapColor": "COLOR_ORANGE",
+    "fireworkColor": 15435844,
+    "textColor": 16738335,
+    "textureDiffuseColor": -425955
+  },
+  {
+    "id": 2,
+    "mojangName": "magenta",
+    "mapColor": "COLOR_MAGENTA",
+    "fireworkColor": 12801229,
+    "textColor": 16711935,
+    "textureDiffuseColor": -3715395
+  },
+  {
+    "id": 3,
+    "mojangName": "light_blue",
+    "mapColor": "COLOR_LIGHT_BLUE",
+    "fireworkColor": 6719955,
+    "textColor": 10141901,
+    "textureDiffuseColor": -12930086
+  },
+  {
+    "id": 4,
+    "mojangName": "yellow",
+    "mapColor": "COLOR_YELLOW",
+    "fireworkColor": 14602026,
+    "textColor": 16776960,
+    "textureDiffuseColor": -75715
+  },
+  {
+    "id": 5,
+    "mojangName": "lime",
+    "mapColor": "COLOR_LIGHT_GREEN",
+    "fireworkColor": 4312372,
+    "textColor": 12582656,
+    "textureDiffuseColor": -8337633
+  },
+  {
+    "id": 6,
+    "mojangName": "pink",
+    "mapColor": "COLOR_PINK",
+    "fireworkColor": 14188952,
+    "textColor": 16738740,
+    "textureDiffuseColor": -816214
+  },
+  {
+    "id": 7,
+    "mojangName": "gray",
+    "mapColor": "COLOR_GRAY",
+    "fireworkColor": 4408131,
+    "textColor": 8421504,
+    "textureDiffuseColor": -12103854
+  },
+  {
+    "id": 8,
+    "mojangName": "light_gray",
+    "mapColor": "COLOR_LIGHT_GRAY",
+    "fireworkColor": 11250603,
+    "textColor": 13882323,
+    "textureDiffuseColor": -6447721
+  },
+  {
+    "id": 9,
+    "mojangName": "cyan",
+    "mapColor": "COLOR_CYAN",
+    "fireworkColor": 2651799,
+    "textColor": 65535,
+    "textureDiffuseColor": -15295332
+  },
+  {
+    "id": 10,
+    "mojangName": "purple",
+    "mapColor": "COLOR_PURPLE",
+    "fireworkColor": 8073150,
+    "textColor": 10494192,
+    "textureDiffuseColor": -7785800
+  },
+  {
+    "id": 11,
+    "mojangName": "blue",
+    "mapColor": "COLOR_BLUE",
+    "fireworkColor": 2437522,
+    "textColor": 255,
+    "textureDiffuseColor": -12827478
+  },
+  {
+    "id": 12,
+    "mojangName": "brown",
+    "mapColor": "COLOR_BROWN",
+    "fireworkColor": 5320730,
+    "textColor": 9127187,
+    "textureDiffuseColor": -8170446
+  },
+  {
+    "id": 13,
+    "mojangName": "green",
+    "mapColor": "COLOR_GREEN",
+    "fireworkColor": 3887386,
+    "textColor": 65280,
+    "textureDiffuseColor": -10585066
+  },
+  {
+    "id": 14,
+    "mojangName": "red",
+    "mapColor": "COLOR_RED",
+    "fireworkColor": 11743532,
+    "textColor": 16711680,
+    "textureDiffuseColor": -5231066
+  },
+  {
+    "id": 15,
+    "mojangName": "black",
+    "mapColor": "COLOR_BLACK",
+    "fireworkColor": 1973019,
+    "textColor": 0,
+    "textureDiffuseColor": -14869215
+  }
+]
