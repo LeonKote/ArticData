@@ -1,232 +1,186 @@
 {
   "minecraft:block_activate": {
     "id": 0,
-    "mojangName": "BLOCK_ACTIVATE",
-    "notificationRadius": 16
+    "mojangName": "BLOCK_ACTIVATE"
   },
   "minecraft:block_attach": {
     "id": 1,
-    "mojangName": "BLOCK_ATTACH",
-    "notificationRadius": 16
+    "mojangName": "BLOCK_ATTACH"
   },
   "minecraft:block_change": {
     "id": 2,
-    "mojangName": "BLOCK_CHANGE",
-    "notificationRadius": 16
+    "mojangName": "BLOCK_CHANGE"
   },
   "minecraft:block_close": {
     "id": 3,
-    "mojangName": "BLOCK_CLOSE",
-    "notificationRadius": 16
+    "mojangName": "BLOCK_CLOSE"
   },
   "minecraft:block_deactivate": {
     "id": 4,
-    "mojangName": "BLOCK_DEACTIVATE",
-    "notificationRadius": 16
+    "mojangName": "BLOCK_DEACTIVATE"
   },
   "minecraft:block_destroy": {
     "id": 5,
-    "mojangName": "BLOCK_DESTROY",
-    "notificationRadius": 16
+    "mojangName": "BLOCK_DESTROY"
   },
   "minecraft:block_detach": {
     "id": 6,
-    "mojangName": "BLOCK_DETACH",
-    "notificationRadius": 16
+    "mojangName": "BLOCK_DETACH"
   },
   "minecraft:block_open": {
     "id": 7,
-    "mojangName": "BLOCK_OPEN",
-    "notificationRadius": 16
+    "mojangName": "BLOCK_OPEN"
   },
   "minecraft:block_place": {
     "id": 8,
-    "mojangName": "BLOCK_PLACE",
-    "notificationRadius": 16
+    "mojangName": "BLOCK_PLACE"
   },
   "minecraft:container_close": {
     "id": 9,
-    "mojangName": "CONTAINER_CLOSE",
-    "notificationRadius": 16
+    "mojangName": "CONTAINER_CLOSE"
   },
   "minecraft:container_open": {
     "id": 10,
-    "mojangName": "CONTAINER_OPEN",
-    "notificationRadius": 16
+    "mojangName": "CONTAINER_OPEN"
   },
   "minecraft:dispense_fail": {
     "id": 11,
-    "mojangName": "DISPENSE_FAIL",
-    "notificationRadius": 16
+    "mojangName": "DISPENSE_FAIL"
   },
   "minecraft:drink": {
     "id": 12,
-    "mojangName": "DRINK",
-    "notificationRadius": 16
+    "mojangName": "DRINK"
   },
   "minecraft:eat": {
     "id": 13,
-    "mojangName": "EAT",
-    "notificationRadius": 16
+    "mojangName": "EAT"
   },
   "minecraft:elytra_glide": {
     "id": 14,
-    "mojangName": "ELYTRA_GLIDE",
-    "notificationRadius": 16
+    "mojangName": "ELYTRA_GLIDE"
   },
   "minecraft:entity_damage": {
     "id": 15,
-    "mojangName": "ENTITY_DAMAGE",
-    "notificationRadius": 16
+    "mojangName": "ENTITY_DAMAGE"
   },
   "minecraft:entity_die": {
     "id": 16,
-    "mojangName": "ENTITY_DIE",
-    "notificationRadius": 16
+    "mojangName": "ENTITY_DIE"
   },
   "minecraft:entity_interact": {
     "id": 17,
-    "mojangName": "ENTITY_INTERACT",
-    "notificationRadius": 16
+    "mojangName": "ENTITY_INTERACT"
   },
   "minecraft:entity_place": {
     "id": 18,
-    "mojangName": "ENTITY_PLACE",
-    "notificationRadius": 16
+    "mojangName": "ENTITY_PLACE"
   },
   "minecraft:entity_roar": {
     "id": 19,
-    "mojangName": "ENTITY_ROAR",
-    "notificationRadius": 16
+    "mojangName": "ENTITY_ROAR"
   },
   "minecraft:entity_shake": {
     "id": 20,
-    "mojangName": "ENTITY_SHAKE",
-    "notificationRadius": 16
+    "mojangName": "ENTITY_SHAKE"
   },
   "minecraft:equip": {
     "id": 21,
-    "mojangName": "EQUIP",
-    "notificationRadius": 16
+    "mojangName": "EQUIP"
   },
   "minecraft:explode": {
     "id": 22,
-    "mojangName": "EXPLODE",
-    "notificationRadius": 16
+    "mojangName": "EXPLODE"
   },
   "minecraft:flap": {
     "id": 23,
-    "mojangName": "FLAP",
-    "notificationRadius": 16
+    "mojangName": "FLAP"
   },
   "minecraft:fluid_pickup": {
     "id": 24,
-    "mojangName": "FLUID_PICKUP",
-    "notificationRadius": 16
+    "mojangName": "FLUID_PICKUP"
   },
   "minecraft:fluid_place": {
     "id": 25,
-    "mojangName": "FLUID_PLACE",
-    "notificationRadius": 16
+    "mojangName": "FLUID_PLACE"
   },
   "minecraft:hit_ground": {
     "id": 26,
-    "mojangName": "HIT_GROUND",
-    "notificationRadius": 16
+    "mojangName": "HIT_GROUND"
   },
   "minecraft:instrument_play": {
     "id": 27,
-    "mojangName": "INSTRUMENT_PLAY",
-    "notificationRadius": 16
+    "mojangName": "INSTRUMENT_PLAY"
   },
   "minecraft:item_interact_finish": {
     "id": 28,
-    "mojangName": "ITEM_INTERACT_FINISH",
-    "notificationRadius": 16
+    "mojangName": "ITEM_INTERACT_FINISH"
   },
   "minecraft:item_interact_start": {
     "id": 29,
-    "mojangName": "ITEM_INTERACT_START",
-    "notificationRadius": 16
+    "mojangName": "ITEM_INTERACT_START"
   },
   "minecraft:jukebox_play": {
     "id": 30,
-    "mojangName": "JUKEBOX_PLAY",
-    "notificationRadius": 10
+    "mojangName": "JUKEBOX_PLAY"
   },
   "minecraft:jukebox_stop_play": {
     "id": 31,
-    "mojangName": "JUKEBOX_STOP_PLAY",
-    "notificationRadius": 10
+    "mojangName": "JUKEBOX_STOP_PLAY"
   },
   "minecraft:lightning_strike": {
     "id": 32,
-    "mojangName": "LIGHTNING_STRIKE",
-    "notificationRadius": 16
+    "mojangName": "LIGHTNING_STRIKE"
   },
   "minecraft:note_block_play": {
     "id": 33,
-    "mojangName": "NOTE_BLOCK_PLAY",
-    "notificationRadius": 16
+    "mojangName": "NOTE_BLOCK_PLAY"
   },
   "minecraft:piston_contract": {
     "id": 34,
-    "mojangName": "PISTON_CONTRACT",
-    "notificationRadius": 16
+    "mojangName": "PISTON_CONTRACT"
   },
   "minecraft:piston_extend": {
     "id": 35,
-    "mojangName": "PISTON_EXTEND",
-    "notificationRadius": 16
+    "mojangName": "PISTON_EXTEND"
   },
   "minecraft:prime_fuse": {
     "id": 36,
-    "mojangName": "PRIME_FUSE",
-    "notificationRadius": 16
+    "mojangName": "PRIME_FUSE"
   },
   "minecraft:projectile_land": {
     "id": 37,
-    "mojangName": "PROJECTILE_LAND",
-    "notificationRadius": 16
+    "mojangName": "PROJECTILE_LAND"
   },
   "minecraft:projectile_shoot": {
     "id": 38,
-    "mojangName": "PROJECTILE_SHOOT",
-    "notificationRadius": 16
+    "mojangName": "PROJECTILE_SHOOT"
   },
   "minecraft:sculk_sensor_tendrils_clicking": {
     "id": 39,
-    "mojangName": "SCULK_SENSOR_TENDRILS_CLICKING",
-    "notificationRadius": 16
+    "mojangName": "SCULK_SENSOR_TENDRILS_CLICKING"
   },
   "minecraft:shear": {
     "id": 40,
-    "mojangName": "SHEAR",
-    "notificationRadius": 16
+    "mojangName": "SHEAR"
   },
   "minecraft:shriek": {
     "id": 41,
-    "mojangName": "SHRIEK",
-    "notificationRadius": 32
+    "mojangName": "SHRIEK"
   },
   "minecraft:splash": {
     "id": 42,
-    "mojangName": "SPLASH",
-    "notificationRadius": 16
+    "mojangName": "SPLASH"
   },
   "minecraft:step": {
     "id": 43,
-    "mojangName": "STEP",
-    "notificationRadius": 16
+    "mojangName": "STEP"
   },
   "minecraft:swim": {
     "id": 44,
-    "mojangName": "SWIM",
-    "notificationRadius": 16
+    "mojangName": "SWIM"
   },
   "minecraft:teleport": {
     "id": 45,
-    "mojangName": "TELEPORT",
-    "notificationRadius": 16
+    "mojangName": "TELEPORT"
   }
 }
