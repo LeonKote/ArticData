@@ -56,7 +56,7 @@ Adding to a Maven Project:
     <dependency>
         <groupId>de.articdive</groupId>
         <artifactId>articdata</artifactId>
-        <version>1.16.5-f9c9179c</version>
+        <version>1.16.5-4d5a38af</version>
     </dependency>
 </dependencies>
 ```
@@ -68,7 +68,7 @@ repositories {
     mavenCentral()
 }
 dependencies {
-    implementation("de.articdive:articdata:1.16.5-f9c9179c")
+    implementation("de.articdive:articdata:1.16.5-4d5a38af")
 }
 ```
 
